@@ -185,7 +185,6 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
 #EXTINF:-1 tvg-id="MBCDramaPlus.ae" status="online",MBC Plus Drama HD
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-
 #EXTINF:-1 tvg-id="MBCMasr1USA.ae" status="online",MBC Masr USA
 https://shls-mbc-masr-usa-prod.shahid.net/out/v1/d4fded7d5df04b88b9ea1db61d00f095/index.m3u8
 #EXTINF:-1 tvg-id="MBCEgypt.ae" status="online",MBC Maser
@@ -194,7 +193,6 @@ https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/in
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:-1 tvg-id="MBCIraq.ae" status="online",MBC Iraq HD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-
 #EXTINF:-1,MBC+ Variety
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/9346
 #EXTINF:-1 tvg-id="MBCPersia.ae" status="online",MBC Persia
@@ -250,19 +248,6 @@ http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/3033
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28
 #EXTINF:-1,AR: Rotana cinema EGY
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/26
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -459,12 +444,6 @@ http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1621
 
 
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="RugbyMensSevens.uk" status="online",Rugby Men's Sevens (288p)
 https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="RugbyWomensSevens.uk" status="online",Rugby Women's Sevens (288p)
@@ -514,17 +493,6 @@ https://betamg-i.akamaihd.net/hls/live/513429/willhill/0_3838s0ja_1_1/chunklist.
 
 
 
-
-
-
-
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="HBO",US HBO Family (East) (A)
-http://fortv.cc:8080/alphonso/alphonso/17772
-
-#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="HBO",Kids : VIP: HBO Family
-http://new-pro.tv:8080/Fernando/123321/134625
-
 #EXTINF:-1,•●★----| OSN |----★●•
 http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/50002.m3u8
 
@@ -562,13 +530,15 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 #EXTINF:0 tvg-country="GB" tvg-logo="https://iptv-pro.github.io/logo/BOOMERANG.png" group-title="Kids",Boomerang
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/22066
 
-#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="",Comedy Central HD
+#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="OSN",Comedy Central HD
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/336
+#EXTINF:-1 tvg-country="Arab" tvg-logo="" group-title="OSN",OSN-Crime and Investigation HD
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/310
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="Kids",Disney Junior HD
 http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/38994
 
 
-#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="Undefined",E! Entertainment HD
+#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="OSN",E! Entertainment HD
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/489
 #EXTINF:-1,FashionTV 
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/283173
@@ -639,27 +609,16 @@ http://server1.shasho.net:8000/yosri2021/z0605cGMMp/300
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/302
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",OSN Ya Hala Cinema HD
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/303
-
-
-
-
-
-
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Music",Music Now
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/323
 
 
 
 
-
-
-
-
-
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",Discovery HD
 http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/38996
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",OSN: Disney HD
-http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/50848.m3u8
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",Disney channel HD
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/347
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",TLC Arabia
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/7658
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",Star World Middle East
