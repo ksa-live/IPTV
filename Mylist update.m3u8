@@ -53,9 +53,9 @@ https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" status="online",Abu Dhabi Emirates
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" status="online",Abu Dhabi Sports 1
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6a88b.png" status="online",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo"https://www.pngegg.com/en/png-tmegb" status="online",Abu Dhabi Sports 2
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo"https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6b210.png" status="online",Abu Dhabi Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports3.ae" tvg-logo="https://i.imgur.com/U6XDpXY.png" status="online",Abu Dhabi Sports 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
@@ -633,7 +633,7 @@ http://server1.shasho.net:8000/yosri2021/z0605cGMMp/292
 
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",OSN Woman HD
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/463
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",OSN Ya Hala HD
+#EXTINF:0 tvg-country="AR" tvg-logo="https://content.osn.com/logo/channel/cropped/OYA.png" group-title="OSN",OSN Ya Hala HD
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/300
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",OSN Ya Hala Al Oula HD
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/302
