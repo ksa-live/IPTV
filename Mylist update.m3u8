@@ -57,9 +57,9 @@ https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo"https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6b210.png" status="online",Abu Dhabi Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports3.ae" tvg-logo="https://i.imgur.com/U6XDpXY.png" status="online",Abu Dhabi Sports 3
+#EXTINF:-1 tvg-id="AbuDhabiSports3.ae" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6bec3.png" status="online",Abu Dhabi Sports 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/8VqomZ5.png",Abu Dhabi Sports 4
+#EXTINF:-1 group-title="Sport" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/6214d50c63.png",Abu Dhabi Sports 4
 http://www.elahmad.com/tv/m3u8/adtv.m3u8
 
 #EXTINF:-1 tvg-id="AlAanTV.ae" status="online",Al Aan
@@ -615,7 +615,7 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="News",OSN News HD
 http://new-pro.tv:8080/Fernando/123321/36183
-#EXTINF:-1,OSN Pop Up HD
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/NKU.png",OSN Pop Up HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/283286
 #EXTINF:-1,AE: OSN Premiere HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/22118
