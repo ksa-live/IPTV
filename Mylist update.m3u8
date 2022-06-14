@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://ksa-live.github.io/IPTV/elcinema.com_eg-en.channels.xml,https://iptv-org.github.io/epg/guides/sa-en/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/ba/tvprofil.com.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/eg/elcinema.com.epg.xml,https://iptv-org.github.io/epg/guides/us/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/sa-en/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/eg/elcinema.com.epg.xml,https://iptv-org.github.io/epg/guides/us/ontvtonight.com.epg.xml"
 
 #EXTINF:-1 tvg-id="AlSaudiya.sa" status="online",Saudi TV
 https://edge.taghtia.com/sa/2.m3u8
