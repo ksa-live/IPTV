@@ -648,7 +648,7 @@ http://server1.shasho.net:8000/yosri2021/z0605cGMMp/4456
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/4455
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="BeIN",BeIn Drama 1
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/4460
-#EXTINF:-1,BeIN",BeIn Drama 3
+#EXTINF:-1 tvg-country="AR" tvg-logo="" group-title="BeIN",BeIn Drama 3
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/4454
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="BeIN",BeIn Movies Family
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/4453
