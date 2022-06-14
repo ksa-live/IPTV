@@ -313,7 +313,7 @@ http://45.153.35.210:8000/play/UK_e4_sd/index.m3u8
 http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/32446
 #EXTINF:-1 tvg-country="GB" tvg-logo="" group-title="UK",Film 4 UK
 http://45.153.35.210:8000/play/UK_film_4_sd/index.m3u8
-#EXTINF:-1,4More
+#EXTINF:-1 tvg-id="More4UK.uk" site-id="uk#69036330/more4"group-title="UK",More 4 UK
 http://45.153.35.210:8000/play/UK_more_4_sd/index.m3u8
 #EXTINF:-1 tvg-id="Afrobeats.uk" status="online",Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
@@ -466,7 +466,7 @@ https://de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1,##########   United States   ##########
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/38578
-#EXTINF:-1,Newsmax TV HD US
+#EXTINF:-1,Newsmax TV
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/38579
 #EXTINF:-1,A&E HD US
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/38580
@@ -1255,8 +1255,306 @@ https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
 
 
 
-#EXTINF:-1,•●★----| TEST |----★●•
+#EXTINF:-1,•●★----| Persian |----★●•
 http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/50003.m3u8
+#EXTINF:-1,1 TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34019
+#EXTINF:-1,24 Box IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34020
+#EXTINF:-1,AL ALAM IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34021
+#EXTINF:-1,AL KAWTHAR IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34022
+#EXTINF:-1,Andisheh TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34023
+#EXTINF:-1,Arezo TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34024
+#EXTINF:-1,Ayeneh TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34025
+#EXTINF:-1,Azadi Television IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34026
+#EXTINF:-1,B24 HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34027
+#EXTINF:-1,BBC Persian IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34028
+#EXTINF:-1,Beauty TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34029
+#EXTINF:-1,24Beat TV FHD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34030
+#EXTINF:-1,Cine Film FHD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34031
+#EXTINF:-1,Cine Film IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34032
+#EXTINF:-1,Cine Series FHD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34033
+#EXTINF:-1,Cine Series IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34034
+#EXTINF:-1,Iran International FHD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34035
+#EXTINF:-1,Fashion One Farsi TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34036
+#EXTINF:-1,GEM Kids IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34037
+#EXTINF:-1,GEM Life IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34038
+#EXTINF:-1,GEM Latino IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34039
+#EXTINF:-1,ITN IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34040
+#EXTINF:-1,Ganje Hozour IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34041
+#EXTINF:-1,Gem ARABIA IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34042
+#EXTINF:-1,Gem AZ 1 IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34043
+#EXTINF:-1,Gem Action IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34044
+#EXTINF:-1,Gem Bollywood IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34045
+#EXTINF:-1,Gem Drama HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34046
+#EXTINF:-1,Gem Drama Plus FHD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34047
+#EXTINF:-1,GEM Classic IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34048
+#EXTINF:-1,Gem Family HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34049
+#EXTINF:-1,Gem Farm IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34050
+#EXTINF:-1,Gem Food HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34051
+#EXTINF:-1,Gem Junior IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34052
+#EXTINF:-1,Gem Life HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34053
+#EXTINF:-1,GEM Comedy IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34054
+#EXTINF:-1,Gem River HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34055
+#EXTINF:-1,Gem Rubix HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34056
+#EXTINF:-1,Gem Series HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34057
+#EXTINF:-1,Gem Series Plus HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34058
+#EXTINF:-1,Gem TV HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34059
+#EXTINF:-1,GEM Maxx IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34060
+#EXTINF:-1,HODHOD TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34061
+#EXTINF:-1,Cine Film IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34062
+#EXTINF:-1,IR Cama 1 TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34063
+#EXTINF:-1,IRIB Fars TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34064
+#EXTINF:-1,IRIB Isfahan TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34065
+#EXTINF:-1,IRIB ISFAHAN IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34066
+#EXTINF:-1,IRIB Khouzestan TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34067
+#EXTINF:-1,IRIB Namayesh IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34068
+#EXTINF:-1,IRIB Nasim IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34069
+#EXTINF:-1,Simaye Azadi IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34070
+#EXTINF:-1,IRIB Sahand TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34071
+#EXTINF:-1,IRIB Salamat IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34072
+#EXTINF:-1,IRIB Shoma IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34073
+#EXTINF:-1,IRIB TV 1 IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34074
+#EXTINF:-1,IRIB TV 2 IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34075
+#EXTINF:-1,IRIB TV 3 HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34076
+#EXTINF:-1,IRIB TV 3 IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34077
+#EXTINF:-1,IRIB TV 4 IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34078
+#EXTINF:-1,IRIB TV 5 IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34079
+#EXTINF:-1,IRIB Varzesh TV HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34080
+#EXTINF:-1,IRINN IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34081
+#EXTINF:-1,ITN IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34082
+#EXTINF:-1,GEM Film IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34083
+#EXTINF:-1,Didar TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34084
+#EXTINF:-1,VOX 1 IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34085
+#EXTINF:-1,Iran Gold Star 2 IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34086
+#EXTINF:-1,Iran International HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34087
+#EXTINF:-1,Iran International IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34088
+#EXTINF:-1,Khane Film IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34089
+#EXTINF:-1,Khane Honarmandan IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34090
+#EXTINF:-1,Lemar IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34091
+#EXTINF:-1,IRIB ILAM IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34092
+#EXTINF:-1,MIFA IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34093
+#EXTINF:-1,MOHABAT TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34094
+#EXTINF:-1,IRIB VARZESH IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34095
+#EXTINF:-1,Manoto 1 (Website) FHD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34096
+#EXTINF:-1,Manoto 1 IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34097
+#EXTINF:-1,Mihan TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34098
+#EXTINF:-1,EBC IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34099
+#EXTINF:-1,NAMA TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34100
+#EXTINF:-1,IRIB BARAN IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34101
+#EXTINF:-1,Oxir TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34102
+#EXTINF:-1,PARS TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34103
+#EXTINF:-1,PMC IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34104
+#EXTINF:-1,PRESS TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34105
+#EXTINF:-1,Parnian TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34106
+#EXTINF:-1,ParsiLand TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34107
+#EXTINF:-1,Payame Aramesh IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34108
+#EXTINF:-1,Persiana 1 IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34109
+#EXTINF:-1,Radio Javan TV FHD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34110
+#EXTINF:-1,IRIB OFOGH IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34111
+#EXTINF:-1,Caltex Music TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34112
+#EXTINF:-1,SAHAR (FR-BiH) IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34113
+#EXTINF:-1,SAHAR AZARI IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34114
+#EXTINF:-1,SAHAR UR IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34115
+#EXTINF:-1,SAT7 Pars IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34116
+#EXTINF:-1,Simaye Azadi IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34117
+#EXTINF:-1,TOP TOON IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34118
+#EXTINF:-1,TV Persia 1 IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34119
+#EXTINF:-1,TV Persiana HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34120
+#EXTINF:-1,Tamasha TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34121
+#EXTINF:-1,Tapesh TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34122
+#EXTINF:-1,Tin TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34123
+#EXTINF:-1,Tolo HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34124
+#EXTINF:-1,U Toon IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34125
+#EXTINF:-1,Varzish Sport HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34126
+#EXTINF:-1,VoA TV Persian IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34127
+#EXTINF:-1,Watan TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34128
+#EXTINF:-1,iCnet IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34129
+#EXTINF:-1,iFILM English IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34130
+#EXTINF:-1,Z TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34131
+#EXTINF:-1,AVA Family HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34132
+#EXTINF:-1,NAVAHANG TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34133
+#EXTINF:-1,MBC Persia HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34134
+#EXTINF:-1,MBC Persia FHD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34135
+#EXTINF:-1,IRIB TV 3 IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34136
+#EXTINF:-1,Mostanad HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34137
+#EXTINF:-1,Khorasan Jonoobi IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34138
+#EXTINF:-1,Khorasan Razavi TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34139
+#EXTINF:-1,IRIB Dena TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34140
+#EXTINF:-1,aflak TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34141
+#EXTINF:-1,Khalij-e Fars TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34142
+#EXTINF:-1,IRIB Semnan IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34143
+#EXTINF:-1,Golestan TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34144
+#EXTINF:-1,Shabakeh 7 IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34145
+#EXTINF:-1,IRIB KHORASAN SHOMALI IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34146
+#EXTINF:-1,Irib YAZD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34147
+#EXTINF:-1,IRIB Aftab IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34148
+#EXTINF:-1,Channel One TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34149
+#EXTINF:-1,Ganje Hozoor TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34150
+#EXTINF:-1,Gem Travel IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34151
+#EXTINF:-1,GEM Junior HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34152
+#EXTINF:-1,Melli TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34153
+#EXTINF:-1,Merci TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34154
+#EXTINF:-1,TM TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34155
+#EXTINF:-1,iFilm HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34156
+#EXTINF:-1,Kalemeh TV HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34157
+#EXTINF:-1,MTC TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34158
+#EXTINF:-1,20+ TV HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34159
+#EXTINF:-1,PM HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34160
+#EXTINF:-1,Payam Javan HD TV IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34161
+#EXTINF:-1,AVA Series HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34162
+#EXTINF:-1,Varzesh TV2 IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34163
+#EXTINF:-1,GEM ONYX FHD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34164
+#EXTINF:-1,GEM USA HD IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34165
+#EXTINF:-1,4U IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34166
+#EXTINF:-1,Gem FIT IR
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34167
 
 
 
