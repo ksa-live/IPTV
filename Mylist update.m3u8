@@ -143,13 +143,13 @@ http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/38756
 #EXTINF:-1,DMC Drama
 http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/38757
 #EXTINF:-1,CBC
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/38758
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/73
 #EXTINF:-1,CBC Drama
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/38759
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/77
 #EXTINF:-1,CBC Extra
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/38760
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/76
 #EXTINF:-1,CBC Sofra
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/38761
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/75
 
 #EXTINF:-1 tvg-id="HawasTV.ae" status="online",Hawas TV (480p)
 https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
@@ -227,7 +227,8 @@ http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/50964.m3u8
 #EXTINF:-1,Nile TV
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1786
 
-
+#EXTINF:-1,RT Arabic
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/96
 
 #EXTINF:-1 tvg-id="RotanaCinema.sa" status="online" tvg-logo="" group-title="My HD",Rotana Cinema
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
