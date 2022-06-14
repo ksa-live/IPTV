@@ -386,10 +386,6 @@ http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1616
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1619
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Music",MTV ROCKS
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1620
-#EXTINF:-1,NatGeo
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/127573
-#EXTINF:-1,NatGeo Wild FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/32457
 #EXTINF:-1,POP
 http://45.153.35.210:8000/play/UK_pop_sd/index.m3u8
 #EXTINF:-1,POP Max
@@ -400,11 +396,6 @@ http://45.153.35.210:8000/play/UK_tiny_pop_sd/index.m3u8
 http://45.153.35.210:8000/play/a014/index.m3u8
 #EXTINF:-1,Trace Vault
 http://45.153.35.210:8000/play/a017/index.m3u8
-
-#EXTINF:-1,Discovery Channel FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/32458
-#EXTINF:-1,UK: Sky History
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/32463
 
 
 
@@ -442,8 +433,6 @@ https://dk7psf0dh3v1r.cloudfront.net/KMTV/playlist.m3u8
 
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sony
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1657
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Music",VH1
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1621
 
 
 
@@ -543,6 +532,8 @@ http://server1.shasho.net:8000/yosri2021/z0605cGMMp/312
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/22109
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="OSN",OSN Enigma HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2856
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="OSN",OSN Family HD
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/313
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="OSN",OSN Kids
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/339
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="OSN",OSN Kid Zone
@@ -561,7 +552,6 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/122553
 #EXTINF:-1,OSN MX HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/283287
-
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="News",OSN News HD
 http://new-pro.tv:8080/Fernando/123321/36183
 #EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/NKU.png",OSN Pop Up HD
@@ -582,10 +572,6 @@ http://server1.shasho.net:8000/yosri2021/z0605cGMMp/303
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/323
 
 
-
-
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",Discovery HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/38996
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",Disney channel HD
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/347
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",TLC Arabia
@@ -594,11 +580,11 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/295
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",Star Movies Middle East
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/327
-#EXTINF:-1,Nickelodeon Arabia
+#EXTINF:-1 tvg-country="AR" tvg-logo="" group-title="OSN",Nickelodeon Arabia
 http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/52596.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",NickToons Arabia
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="OSN",NickToons Arabia
 http://new-pro.tv:8080/Fernando/123321/28428
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Nick Jr Arabia
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="OSN",Nick Jr Arabia
 http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/38536
 
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="OSN",History Middle East
@@ -617,20 +603,18 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 hhttp://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/43841
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",Discovery Science Middle East
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/282875
-#EXTINF:-1,Discovery World HD
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/11081
+
 
 #EXTINF:0 tvg-country="AR" tvg-logo="https://iptv-pro.github.io/logo/Animal%20Planet.png" group-title="OSN",Animal Planet HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/282830
 
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="OSN",OSN Family HD
-http://server1.shasho.net:8000/yosri2021/z0605cGMMp/313
 
 
 
-#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="OSN",B4U Aflam
+
+#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="My HD",B4U Aflam
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1673
-#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="OSN",B4U Plus
+#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="My HD",B4U Plus
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/3199
 
 
