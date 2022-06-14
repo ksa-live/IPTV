@@ -42,6 +42,14 @@ https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://aldafrah.ae/wp-content/uploads/2018/02/logo_2x-1.png",Al Dhafra TV
 https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
 
+#EXTINF:0 tvg-country="AR" tvg-logo="https://iptv-pro.github.io/logo/Al%20Jazeera%20English.png" group-title="News",Al Jazeera Mobasher
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/232
+#EXTINF:0 tvg-country="GB" tvg-logo="https://iptv-pro.github.io/logo/%E5%8D%8A%E5%B2%9B%E8%8B%B1%E8%AF%AD%E6%96%B0%E9%97%BB%E5%8F%B0Al%20Jazeera%20English.png" group-title="News",Al Jazeera News FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/177430
+#EXTINF:0 tvg-country="AR" tvg-logo="https://iptv-pro.github.io/logo/Al%20Jazeera%20English.png" group-title="News",Al Jazeera English
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/237
+#EXTINF:0 tvg-country="AR" tvg-logo="https://iptv-pro.github.io/logo/Al%20Jazeera%20English.png" group-title="News",Al Jazeera Documentary
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1737
 
 
 
@@ -74,6 +82,7 @@ https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlYaumTV.ae" status="online",Al Yaum TV
 https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
+
 #EXTINF:0 tvg-country="BHR" tvg-id="BahrainTV.bh" tvg-logo="" group-title="",Bahrain TV HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/295480
 #EXTINF:-1,BeoutQ Action HD
@@ -452,16 +461,8 @@ https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
 #EXTINF:-1 tvg-id="SheffieldLiveTV.uk" status="online",Sheffield Live TV (360p) 
 http://tv.sheffieldlive.org/hls/main.m3u8
-#EXTINF:-1 tvg-id="SkyNewsArabia.ae" status="online",Sky News Arabia (Portrait) (1280p) 
-https://stream.skynewsarabia.com/vertical/vertical.m3u8
 #EXTINF:-1 tvg-id="SkyNewsArabia.ae" status="online",Sky News Arabia (720p) 
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-id="SkyNewsExtra1.au" status="online",Sky News Extra 1 (540p)
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 tvg-id="SkyNewsExtra2.au" status="online",Sky News Extra 2 (540p) 
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 tvg-id="SkyNewsExtra3.au" status="online",Sky News Extra 3 (1080p)
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 tvg-id="SportsTonight.uk" status="online",Sports Tonight (576p) 
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="SportyStuffTV.uk" status="online",Sporty Stuff TV (720p)
@@ -473,23 +474,7 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?
 #EXTINF:-1 tvg-id="TJC.uk" status="online",TJC (1080p)
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 tvg-id="V2BEAT.uk" status="online",V2BEAT (720p) 
-https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-id="V2BEAT.uk" status="online",V2BEAT (720p) 
 https://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-id="WilliamHillBTV1.uk" status="online",William Hill BTV 1 (720p)
-https://betamg-i.akamaihd.net/hls/live/513429/willhill/0_tklzcakd_1_1/chunklist.m3u8
-#EXTINF:-1 tvg-id="WilliamHillBTV2.uk" status="online",William Hill BTV 2 (720p)
-https://betamg-i.akamaihd.net/hls/live/513429/willhill/0_3838s0ja_1_1/chunklist.m3u8
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -532,7 +517,7 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="OSN",Comedy Central HD
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/336
-#EXTINF:-1 tvg-country="Arab" tvg-logo="" group-title="OSN",OSN-Crime and Investigation HD
+#EXTINF:-1 tvg-country="Arab" tvg-logo="" group-title="OSN",Crime + Investigation UK
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/310
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="Kids",Disney Junior HD
 http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/38994
@@ -587,20 +572,10 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 http://new-pro.tv:8080/Fernando/123321/36183
 #EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/NKU.png",OSN Pop Up HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/283286
-#EXTINF:-1,AE: OSN Premiere HD
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/22118
-
-
-#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="OSN",OSN Series Comedy
-http://red.ipfox.org:8080/amer/amer1234/37501
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="OSN",Series First HD
-http://red.ipfox.org:8080/amer/amer1234/2877
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN Series HD
 http://new-pro.tv:8080/Fernando/123321/28104
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN Series First HD
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/292
-
-
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",OSN Woman HD
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/463
 #EXTINF:0 tvg-country="AR" tvg-logo="https://content.osn.com/logo/channel/cropped/OYA.png" group-title="OSN",OSN Ya Hala HD
@@ -625,22 +600,12 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/295
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",Star Movies Middle East
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/327
-
-
-
-
-
-
 #EXTINF:-1,Nickelodeon Arabia
 http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/52596.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",NickToons Arabia
 http://new-pro.tv:8080/Fernando/123321/28428
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Nick Jr Arabia
 http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/38536
-
-
-
-
 
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="OSN",History Middle East
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/294
@@ -673,28 +638,6 @@ http://server1.shasho.net:8000/yosri2021/z0605cGMMp/313
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1673
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="OSN",B4U Plus
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/3199
-
-
-
-
-#EXTINF:-1,Boomberg
-http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/51458.m3u8
-#EXTINF:-1,Food Network HD
-http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/50838.m3u8
-
-#EXTINF:-1,OSN Thriller 2
-http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/51466.m3u8
-#EXTINF:-1,WWE Network
-http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/3923.m3u8
-
-
-
-
-#EXTINF:-1,OSN HORROR
-http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/53920.m3u8
-#EXTINF:-1,OSN Star Gold_HD
-http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/52603.m3u8
-
 
 
 
@@ -806,7 +749,6 @@ http://server1.shasho.net:8000/yosri2021/z0605cGMMp/467
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/283176
 
 
-#EXTINF:-1,BeIN_Drama_Arabic
 #EXTINF:-1,BeIN_JEEM
 #EXTINF:-1,BeIN_AMC
 #EXTINF:-1,Bein_DMAX
@@ -860,65 +802,13 @@ http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/50003.m3u8
 
 
 #EXTINF:-1,•●★----| Chaîne Algerienne |----★●•
-
+http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/50002.m3u8
 
 #EXTINF:-1,•●★----| XXX |----★●•
 http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/50002.m3u8
 #EXTINF:-1 tvg-id="A3Bikini.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/IBfTNOr.png" group-title="XXX" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",A3Bikini (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Anal (720p)
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Asian (720p)
-http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Big Ass (720p)
-http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Big Dick (720p)
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigTits.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Big Tits (720p)
-http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBlonde.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Blonde (720p)
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Blowjob (720p)
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBrunette.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Brunette (720p)
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetCompilation.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Compilation (720p)
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Cuckold (720p)
-http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetFetish.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Fetish (720p)
-http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Gangbang (720p)
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetGay.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Gay (720p)
-http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Hardcore (720p)
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Interracial (720p)
-http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetLatina.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Latina (720p)
-http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Lesbian (720p)
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Live Cams (720p)
-http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetMILF.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net MILF (720p)
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Pornstar (720p)
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetPOV.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net POV (720p)
-http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetRough.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Rough (720p)
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetRussian.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Russian (720p)
-http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Teen (720p)
-http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Threesome (720p)
-http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetWoman.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Woman (720p)
-http://live.redtraffic.net/woman.m3u8
 #EXTINF:-1 tvg-id="ASTTV1.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" group-title="XXX",AST TV 1 (PC) (1080p) [Not 24/7]
 https://www.ast.tv/stream/1/master.m3u8
 #EXTINF:-1 tvg-id="ASTTV2.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" group-title="XXX",AST TV 2 (PC) (1080p) [Not 24/7]
@@ -1059,28 +949,21 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/48529.m3u8
 
 
-#EXTINF:0 tvg-country="AR" tvg-logo="https://iptv-pro.github.io/logo/Al%20Jazeera%20English.png" group-title="News",Al Jazeera Mobasher
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/232
-#EXTINF:0 tvg-country="GB" tvg-logo="https://iptv-pro.github.io/logo/%E5%8D%8A%E5%B2%9B%E8%8B%B1%E8%AF%AD%E6%96%B0%E9%97%BB%E5%8F%B0Al%20Jazeera%20English.png" group-title="News",Al Jazeera News FHD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/177430
-#EXTINF:0 tvg-country="AR" tvg-logo="https://iptv-pro.github.io/logo/Al%20Jazeera%20English.png" group-title="News",Al Jazeera English
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/237
-#EXTINF:0 tvg-country="AR" tvg-logo="https://iptv-pro.github.io/logo/Al%20Jazeera%20English.png" group-title="News",Al Jazeera Documentary
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1737
 
+#EXTINF:0 tvg-country="Arab" tvg-logo="https://logos.fandom.com/wiki/My-HD?file=My-HD.png" group-title="MyHD",•●★- MyHD -★●•
+http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/50570.m3u8
 
-
-#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="Unidentified",APPLE TODAY
+#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="My HD",APPLE TODAY
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28977
-#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="Unidentified",APPLE HEKAYAT
+#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="My HD",APPLE HEKAYAT
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28979
-#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="Unidentified",APPLE MOSALSALAT
+#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="My HD",APPLE MOSALSALAT
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28978
-#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="Unidentified",APPLE AFLAM
+#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="My HD",APPLE AFLAM
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28982
-#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="Unidentified",APPLE CINEMA
+#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="My HD",APPLE CINEMA
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28981
-#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="Unidentified",APPLE COMEDY
+#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="My HD",APPLE COMEDY
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28980
 
 
@@ -1155,8 +1038,6 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 
 
 
-#EXTINF:0 tvg-country="Arab" tvg-logo="https://logos.fandom.com/wiki/My-HD?file=My-HD.png" group-title="MyHD",•●★- MyHD -★●•
-http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/50570.m3u8
 
 
 #EXTINF:-1, tvg-country="SA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",SSC SPORT 1 HD
@@ -1176,9 +1057,6 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 
 
 
-
-
-
 #EXTINF:-1,•●★----| Religon |----★●•
 #EXTINF:-1 tvg-id="PeaceTVAlbanian.ae" status="online",Peace TV Albanian
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
@@ -1186,13 +1064,4 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",Xpanded TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://vod2t.xpanded.com/x3tv2/index_wlan.m3u8
 
