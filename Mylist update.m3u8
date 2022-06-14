@@ -491,17 +491,17 @@ https://de1se01.v2beat.live/playlist.m3u8
 
 
 
-#EXTINF:-1,##########   United States   ##########
+#EXTINF:-1 tvg-country="US" tvg-logo="https://image.similarpng.com/very-thumbnail/2020/04/dirty-grunge-american-flag-png.png" group-title="USA",##########   United States   ##########
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/38578
-#EXTINF:-1,Newsmax TV
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="USA",Newsmax TV
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/38579
-#EXTINF:-1,A&E HD US
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="USA",A&E HD US
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/38580
-#EXTINF:-1,A&E TV HD US
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="USA",A&E TV HD US
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/38581
-#EXTINF:-1,ABC FHD US
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="USA",ABC FHD US
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/38582
-#EXTINF:-1,ABC HD US
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="USA",ABC HD US
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/38583
 #EXTINF:-1,ABC News HD US
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/38584
