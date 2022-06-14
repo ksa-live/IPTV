@@ -1,5 +1,24 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/sa-en/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/eg/elcinema.com.epg.xml,https://iptv-org.github.io/epg/guides/us/ontvtonight.com.epg.xml"
 
+
+#EXTINF:0 tvg-country="Arab" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/1557962664445-VZ7TTZI98UEP3FWW2YO7/My-HD-logo.png" group-title="MyHD",•●★- MyHD -★●•
+http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/50570.m3u8
+
+#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="MyHD",APPLE TODAY
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28977
+#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="MyHD",APPLE HEKAYAT
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28979
+#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="MyHD",APPLE MOSALSALAT
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28978
+#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="MyHD",APPLE AFLAM
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28982
+#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="MyHD",APPLE CINEMA
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28981
+#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="MyHD",APPLE COMEDY
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28980
+
+
+
 #EXTINF:-1 tvg-id="AlSaudiya.sa" status="online" group-title="MyHD",Saudi TV
 https://edge.taghtia.com/sa/2.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-logo="https://i.imgur.com/84nqj99.png" status="online",Al Sunnah Al Nabawiyah TV
@@ -1108,9 +1127,9 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 
 
 
-#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="My HD",B4U Aflam
+#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="MyHD",B4U Aflam
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1673
-#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="My HD",B4U Plus
+#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="MyHD",B4U Plus
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/3199
 
 
@@ -1722,21 +1741,7 @@ http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/48529.m3u8
 
 
 
-#EXTINF:0 tvg-country="Arab" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/1557962664445-VZ7TTZI98UEP3FWW2YO7/My-HD-logo.png" group-title="MyHD",•●★- MyHD -★●•
-http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/50570.m3u8
 
-#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="MyHD",APPLE TODAY
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28977
-#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="MyHD",APPLE HEKAYAT
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28979
-#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="MyHD",APPLE MOSALSALAT
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28978
-#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="MyHD",APPLE AFLAM
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28982
-#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="MyHD",APPLE CINEMA
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28981
-#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="MyHD",APPLE COMEDY
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28980
 
 
 
