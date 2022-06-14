@@ -7,7 +7,7 @@ require('dayjs/locale/ar')
 
 dayjs.extend(customParseFormat)
 dayjs.extend(timezone)
-dayjs.extend(utc)
+dayjs.extend(gmt)
 
 module.exports = {
   site: 'elcinema.com',
