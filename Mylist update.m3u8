@@ -1,32 +1,32 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/sa-en/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/eg/elcinema.com.epg.xml,https://iptv-org.github.io/epg/guides/us/ontvtonight.com.epg.xml"
 
-#EXTINF:-1 tvg-id="AlSaudiya.sa" status="online",Saudi TV
+#EXTINF:-1 tvg-id="AlSaudiya.sa" status="online" group-title="MyHD",Saudi TV
 https://edge.taghtia.com/sa/2.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-logo="https://i.imgur.com/84nqj99.png" status="online",Al Sunnah Al Nabawiyah TV
 https://edge.taghtia.com/sa/6.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.imgur.com/0aMNwQa.png" status="online",Al Quran Al Kareem TV
 https://edge.taghtia.com/sa/7.m3u8
-#EXTINF:-1 tvg-id="ThikrayatTV.sa" status="online",Thikrayat TV
+#EXTINF:-1 tvg-id="ThikrayatTV.sa" status="online" group-title="MyHD",Thikrayat TV
 https://edge.taghtia.com/sa/3.m3u8
-#EXTINF:-1 tvg-id="SBC.sa" status="online",SBC 
+#EXTINF:-1 tvg-id="SBC.sa" status="online" group-title="MyHD",SBC 
 https://edge.taghtia.com/sa/1.m3u8
-#EXTINF:-1 tvg-id="KSASports1.sa" status="online",Saudi Al Ryadiha KSA 1 HD
+#EXTINF:-1 tvg-id="KSASports1.sa" status="online" group-title="MyHD",Saudi Al Ryadiha KSA 1 HD
 https://edge.taghtia.com/sa/9.m3u8
-#EXTINF:-1 tvg-id="KSASports2.sa" status="online",Saudi Al Ryadiha KSA 2 HD
+#EXTINF:-1 tvg-id="KSASports2.sa" status="online" group-title="MyHD",Saudi Al Ryadiha KSA 2 HD
 https://edge.taghtia.com/sa/10.m3u8
-#EXTINF:-1,Saudi Al Ryadiha KSA 3 HD
+#EXTINF:-1 group-title="MyHD",Saudi Al Ryadiha KSA 3 HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/43712
-#EXTINF:-1,Saudi Al Ryadiha KSA 4 HD
+#EXTINF:-1 group-title="MyHD",Saudi Al Ryadiha KSA 4 HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/268595
 #EXTINF:-1 tvg-id="AlEkhbariya.sa" tvg-logo="" status="online",AlEkhbariya
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/ekhbariyatv/live
 
 
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="",Saudi 24
+#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="MyHD",Saudi 24
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28988
-#EXTINF:-1, tvg-country="SA" group-title="Undefined" tvg-logo="https://i.imgur.com/j1Xmygq.jpg"SAUDI AJYAL TV
+#EXTINF:-1 tvg-country="SA" group-title="MyHD" tvg-logo="https://i.imgur.com/j1Xmygq.jpg",SAUDI AJYAL TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="General;Undefined" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg",ABNsat
+#EXTINF:-1 group-title="MyHD" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg",ABNsat
 http://rtmp1.abnsat.com/hls/arabic.m3u8
 
 
@@ -36,10 +36,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/AlArabi
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1666
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="News",Alhurra TV
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/16959
-#EXTINF:0 tvg-country="JOR" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="AR",Al Mamlaka TV
+#EXTINF:0 tvg-country="JOR" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="MyHD",Al Mamlaka TV
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://aldafrah.ae/wp-content/uploads/2018/02/logo_2x-1.png",Al Dhafra TV
+#EXTINF:-1 group-title="MyHD" tvg-logo="https://aldafrah.ae/wp-content/uploads/2018/02/logo_2x-1.png",Al Dhafra TV
 https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
 
 #EXTINF:0 tvg-country="AR" tvg-logo="https://iptv-pro.github.io/logo/Al%20Jazeera%20English.png" group-title="News",Al Jazeera Mobasher
@@ -158,47 +158,47 @@ https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="",MBC
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
-#EXTINF:-1 tvg-id="MBC.ae" status="online" group-title="My HD",MBC
+#EXTINF:-1 tvg-id="MBC.ae" status="online" group-title="MyHD",MBC
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1919
-#EXTINF:0 tvg-country="" tvg-url="" tvg-logo="" group-title="My HD",MBC 2
+#EXTINF:0 tvg-country="" tvg-url="" tvg-logo="" group-title="MyHD",MBC 2
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/34615
-#EXTINF:-1 tvg-id="MBC3.ae" status="online" group-title="My HD",MBC 3 HD KSA 
+#EXTINF:-1 tvg-id="MBC3.ae" status="online" group-title="MyHD",MBC 3 HD KSA 
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:-1 tvg-id="MBC3EUR.ae" status="online" group-title="My HD",MBC 3 EUR 
+#EXTINF:-1 tvg-id="MBC3EUR.ae" status="online" group-title="MyHD",MBC 3 EUR 
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
-#EXTINF:-1 tvg-id="MBC4.ae" status="blocked" group-title="My HD",MBC 4 HD
+#EXTINF:-1 tvg-id="MBC4.ae" status="blocked" group-title="MyHD",MBC 4 HD
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1 tvg-id="MBC5.ae" status="online" group-title="My HD",MBC 5
+#EXTINF:-1 tvg-id="MBC5.ae" status="online" group-title="MyHD",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" status="online" group-title="My HD",MBC Action HD
+#EXTINF:-1 tvg-id="" status="online" group-title="MyHD",MBC Action HD
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/283
-#EXTINF:-1 tvg-id="" status="online" group-title="My HD",MBC Max HD
+#EXTINF:-1 tvg-id="" status="online" group-title="MyHD",MBC Max HD
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/281
 
 
 
 
 
-#EXTINF:-1 tvg-id="MBCBollywood.ae" status="blocked" group-title="My HD",MBC Bollywood HD
+#EXTINF:-1 tvg-id="MBCBollywood.ae" status="blocked" group-title="MyHD",MBC Bollywood HD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 tvg-id="MBCDrama.ae" status="online" group-title="My HD",MBC Drama HD KSA
+#EXTINF:-1 tvg-id="MBCDrama.ae" status="online" group-title="MyHD",MBC Drama HD KSA
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
-#EXTINF:-1 tvg-id="MBCDramaPlus.ae" status="online" group-title="My HD",MBC Plus Drama HD
+#EXTINF:-1 tvg-id="MBCDramaPlus.ae" status="online" group-title="MyHD",MBC Plus Drama HD
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:-1 tvg-id="MBCMasr1USA.ae" status="online" group-title="My HD",MBC Masr USA
+#EXTINF:-1 tvg-id="MBCMasr1USA.ae" status="online" group-title="MyHD",MBC Masr USA
 https://shls-mbc-masr-usa-prod.shahid.net/out/v1/d4fded7d5df04b88b9ea1db61d00f095/index.m3u8
-#EXTINF:-1 tvg-id="MBCEgypt.ae" status="online" group-title="My HD",MBC Maser
+#EXTINF:-1 tvg-id="MBCEgypt.ae" status="online" group-title="MyHD",MBC Maser
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
-#EXTINF:-1 tvg-id="MBCMasr2.ae" status="online" group-title="My HD",MBC Masr 2
+#EXTINF:-1 tvg-id="MBCMasr2.ae" status="online" group-title="MyHD",MBC Masr 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:-1 tvg-id="MBCIraq.ae" status="online" group-title="My HD",MBC Iraq HD
+#EXTINF:-1 tvg-id="MBCIraq.ae" status="online" group-title="MyHD",MBC Iraq HD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-#EXTINF:-1 tvg-id="MBCIraq.ae" status="online" group-title="My HD",MBC+ Variety
+#EXTINF:-1 tvg-id="MBCIraq.ae" status="online" group-title="MyHD",MBC+ Variety
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/9346
-#EXTINF:-1 tvg-id="MBCPersia.ae" status="online" group-title="My HD",MBC Persia
+#EXTINF:-1 tvg-id="MBCPersia.ae" status="online" group-title="MyHD",MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 #EXTINF:-1 tvg-id="Wanasah.ae" status="online",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
@@ -206,19 +206,19 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 
 
-#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/XAYcgQb.png" group-title="My HD",Nile Cinema
+#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/XAYcgQb.png" group-title="MyHD",Nile Cinema
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/220
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="My HD",Nile Comedy
+#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="MyHD",Nile Comedy
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/34
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="My HD",Nile Culture
+#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="MyHD",Nile Culture
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1791
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="My HD",Nile Drama
+#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="MyHD",Nile Drama
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/84
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="My HD",Nile Family
+#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="MyHD",Nile Family
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/3036
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="My HD",Nile Life
+#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="MyHD",Nile Life
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1789
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="My HD",Nile News
+#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="MyHD",Nile News
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1788
 #EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Sport",Nile Sport
 http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/50964.m3u8
@@ -230,42 +230,42 @@ http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1786
 #EXTINF:-1,RT Arabic
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/96
 
-#EXTINF:-1 tvg-id="RotanaCinema.sa" status="online" tvg-logo="" group-title="My HD",Rotana Cinema
+#EXTINF:-1 tvg-id="RotanaCinema.sa" status="online" tvg-logo="" group-title="MyHD",Rotana Cinema
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
-#EXTINF:-1 tvg-id="RotanaClassic.sa" status="online" tvg-logo="" group-title="My HD",Rotana Classic
+#EXTINF:-1 tvg-id="RotanaClassic.sa" status="online" tvg-logo="" group-title="MyHD",Rotana Classic
 https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
-#EXTINF:-1 tvg-id="RotanaDrama.sa" status="online" tvg-logo="" group-title="My HD",Rotana Drama
+#EXTINF:-1 tvg-id="RotanaDrama.sa" status="online" tvg-logo="" group-title="MyHD",Rotana Drama
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
-#EXTINF:-1 tvg-id="RotanaKhalijia.sa" status="online" tvg-logo="" group-title="My HD",Rotana Khalejia
+#EXTINF:-1 tvg-id="RotanaKhalijia.sa" status="online" tvg-logo="" group-title="MyHD",Rotana Khalejia
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
-#EXTINF:-1 tvg-id="RotanaKids.sa" status="online" tvg-logo="" group-title="My HD",Rotana Kids
+#EXTINF:-1 tvg-id="RotanaKids.sa" status="online" tvg-logo="" group-title="MyHD",Rotana Kids
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
-#EXTINF:-1 tvg-id="RotanaMusic.sa" status="online" tvg-logo="" group-title="My HD",Rotana Music
+#EXTINF:-1 tvg-id="RotanaMusic.sa" status="online" tvg-logo="" group-title="MyHD",Rotana Music
 https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
-#EXTINF:-1 tvg-id="RotanaMusic.sa" status="online" tvg-logo="" group-title="My HD",Rotana Music
+#EXTINF:-1 tvg-id="RotanaMusic.sa" status="online" tvg-logo="" group-title="MyHD",Rotana Music
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1880
-#EXTINF:-1 tvg-id="RotanaPlus.sa" status="online" tvg-logo="" group-title="My HD",Rotana+
+#EXTINF:-1 tvg-id="RotanaPlus.sa" status="online" tvg-logo="" group-title="MyHD",Rotana+
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
-#EXTINF:-1 tvg-id="RotanaComedy.sa" status="online" tvg-logo="" group-title="My HD",Rotana Comedy
+#EXTINF:-1 tvg-id="RotanaComedy.sa" status="online" tvg-logo="" group-title="MyHD",Rotana Comedy
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/3033
-#EXTINF:-1 tvg-id="RotanaClip.sa" status="online" tvg-logo="" group-title="My HD",Rotana Clip
+#EXTINF:-1 tvg-id="RotanaClip.sa" status="online" tvg-logo="" group-title="MyHD",Rotana Clip
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28
-#EXTINF:-1 tvg-logo="" group-title="My HD",Rotana cinema EGY
+#EXTINF:-1 tvg-logo="" group-title="MyHD",Rotana cinema EGY
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/26
 
 
 
-#EXTINF:-1 tvg-id="WeyyakAction.ae" status="online" tvg-logo="" group-title="My HD",Weyyak Action
+#EXTINF:-1 tvg-id="WeyyakAction.ae" status="online" tvg-logo="" group-title="MyHD",Weyyak Action
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
-#EXTINF:-1 tvg-id="WeyyakDrama.ae" status="online" tvg-logo="" group-title="My HD",Weyyak Drama
+#EXTINF:-1 tvg-id="WeyyakDrama.ae" status="online" tvg-logo="" group-title="MyHD",Weyyak Drama
 https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
-#EXTINF:-1 tvg-id="WeyyakMix.ae" status="online" tvg-logo="" group-title="My HD",Weyyak Mix
+#EXTINF:-1 tvg-id="WeyyakMix.ae" status="online" tvg-logo="" group-title="MyHD",Weyyak Mix
 https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
-#EXTINF:-1 tvg-id="WeyyakNawaem.ae" status="online" tvg-logo="" group-title="My HD",Weyyak Nawaem
+#EXTINF:-1 tvg-id="WeyyakNawaem.ae" status="online" tvg-logo="" group-title="MyHD",Weyyak Nawaem
 https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
-#EXTINF:-1 tvg-id="ZeeAflam.in" tvg-logo"" status="online" tvg-logo="" group-title="My HD",Zee Aflam
+#EXTINF:-1 tvg-id="ZeeAflam.in" tvg-logo"" status="online" tvg-logo="" group-title="MyHD",Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-#EXTINF:-1 tvg-id="ZeeAflam.in" status="online" tvg-logo="" group-title="My HD",Zee Alwan
+#EXTINF:-1 tvg-id="ZeeAflam.in" status="online" tvg-logo="" group-title="MyHD",Zee Alwan
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 
 
