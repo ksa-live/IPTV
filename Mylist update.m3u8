@@ -439,10 +439,11 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8
 #EXTINF:-1 tvg-id="kMTV.uk" status="online",KMTV (576p)
 https://dk7psf0dh3v1r.cloudfront.net/KMTV/playlist.m3u8
 
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sony
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sony
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1657
 
-
+#EXTINF:-1 group-title="UK",Quest UK
+http://sunshine.watch:25461/jwhitaker/8SHbZ4tkjO/5131
 
 #EXTINF:-1 tvg-id="RugbyMensSevens.uk" status="online",Rugby Men's Sevens (288p)
 https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
