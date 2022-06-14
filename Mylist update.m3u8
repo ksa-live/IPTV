@@ -699,16 +699,16 @@ http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/52603.m3u8
 
 
 
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="BeIN",BeIn Movies Premiere 1
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/267063
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="BeIN",BeIn Movies Premiere 2
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1267
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="BeIN",BeIn Movies 1
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/4456
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="BeIN",BeIn Movies 2
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/4455
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="BeIN",BeIn Drama 1
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/4460
 #EXTINF:-1,BeIN",BeIn Drama 3
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3735
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/4454
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="BeIN",BeIn Movies Family
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1268
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/4453
 #EXTINF:-1,Baraem HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1272
 #EXTINF:-1,BCC Earth FHD
@@ -754,7 +754,7 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 #EXTINF:-1,BeIn Sports 5
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/291085
 #EXTINF:-1,BeIn Sports 6
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/105
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/36914
 #EXTINF:-1,BeIn Sports 7
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/106
 #EXTINF:-1,beIN Sports English 1 HD
