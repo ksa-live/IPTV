@@ -3,12 +3,12 @@
 
 const { parser, url, request } = require('./elcinema.com.config.js')
 const dayjs = require('dayjs')
-const utc = require('dayjs/plugin/utc')
+const gmt = require('dayjs/plugin/gmt')
 const customParseFormat = require('dayjs/plugin/customParseFormat')
 dayjs.extend(customParseFormat)
-dayjs.extend(utc)
+dayjs.extend(gmt)
 
-const date = dayjs.utc('2021-11-11', 'YYYY-MM-DD').startOf('d')
+const date = dayjs.gmt('2021-11-11', 'YYYY-MM-DD').startOf('d')
 const channelAR = {
   lang: 'ar',
   site_id: '1127',
