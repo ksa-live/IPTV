@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://ksa-live.github.io/IPTV/elcinema.com_eg-en.channels.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/sa-en/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/eg/elcinema.com.epg.xml,https://iptv-org.github.io/epg/guides/us/ontvtonight.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/sa-en/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/eg/elcinema.com.epg.xml,https://iptv-org.github.io/epg/guides/us/ontvtonight.com.epg.xml"
 
 
 #EXTINF:0 tvg-country="Arab" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/1557962664445-VZ7TTZI98UEP3FWW2YO7/My-HD-logo.png" group-title="MyHD",•●★- MyHD -★●•
@@ -327,7 +327,7 @@ http://server1.shasho.net:8000/yosri2021/z0605cGMMp/491
 #EXTINF:0 tvg-country="AR" tvg-id="Cinema2.ae" tvg-logo="" group-title="OSN",Cinema 2
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/460
 #EXTINF:0 tvg-country="AR" tvg-id="Musalsalat.ae" tvg-logo="" group-title="OSN",Musalsalat HD
-http://server1.shasho.net:8000/yosri2021/z0605cGMMp/462
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/67246
 #EXTINF:0 tvg-country="AR" tvg-id="MusalsalatPlus2.ae" tvg-logo="" group-title="OSN",Musalsalat +2 HD
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/484
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Al Safwa
@@ -377,13 +377,13 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",OSN Action HD
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/307
 #EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1295_1.png" group-title="OSN",OSN Box Office 1 HD
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/43903
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/67281
 #EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1294_1.png" group-title="OSN",OSN Box Office 2 HD
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3701
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/67282
 #EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1295_1.png" group-title="OSN",OSN Box Office 3 HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3702
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",OSN Comedy HD
-http://server1.shasho.net:8000/yosri2021/z0605cGMMp/312
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/67253
 #EXTINF:-1,OSN Drama HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/22109
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="OSN",OSN Enigma HD
@@ -393,17 +393,17 @@ http://server1.shasho.net:8000/yosri2021/z0605cGMMp/313
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="OSN",OSN Kids
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/339
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="OSN",OSN Kid Zone
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/13828
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/67256
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="OSN",OSN Living
-http://server1.shasho.net:8000/yosri2021/z0605cGMMp/328
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/67280
 #EXTINF:0 tvg-country="" tvg-logo="https://content.osn.com/logo/channel/cropped/OPR.png" group-title="OSN",OSN Movies HD
-http://server1.shasho.net:8000/yosri2021/z0605cGMMp/305
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/67248
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="OSN",OSN Movies Disney
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/13666
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",OSN Movies First HD
 http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/38999
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",OSN Movies First +2 HD
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/16917
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/67252
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",OSN Mezze
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/122553
 #EXTINF:-1,OSN MX HD
@@ -433,11 +433,11 @@ http://server1.shasho.net:8000/yosri2021/z0605cGMMp/347
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",TLC Arabia
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/7658
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",Star World Middle East
-http://server1.shasho.net:8000/yosri2021/z0605cGMMp/295
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/67263
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",Star Movies Middle East
-http://server1.shasho.net:8000/yosri2021/z0605cGMMp/327
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/67262
 #EXTINF:-1 tvg-country="AR" tvg-logo="" group-title="OSN",Nickelodeon Arabia
-http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/52596.m3u8
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/67257
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="OSN",NickToons Arabia
 http://new-pro.tv:8080/Fernando/123321/28428
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="OSN",Nick Jr Arabia
@@ -446,23 +446,19 @@ http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/38536
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="OSN",History Middle East
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/294
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="OSN",History 2 Middle East
-http://server1.shasho.net:8000/yosri2021/z0605cGMMp/331
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/67268
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="OSN",National Geographic Middle East
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/335
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="OSN",National Geographic Wild Middle East
-http://server1.shasho.net:8000/yosri2021/z0605cGMMp/334
-
-
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/67271
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",Discovery Channel HD
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/13666
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/67276
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",Investigation Discovery Europe
-hhttp://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/43841
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/67278
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",Discovery Science Middle East
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/282875
-
-
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/67279
 #EXTINF:0 tvg-country="AR" tvg-logo="https://iptv-pro.github.io/logo/Animal%20Planet.png" group-title="OSN",Animal Planet HD
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/282830
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/67275
 
 
 
