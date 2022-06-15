@@ -1,13 +1,13 @@
 const cheerio = require('cheerio')
 const dayjs = require('dayjs')
-const utc = require('dayjs/plugin/utc')
+const gmt = require('dayjs/plugin/gmt')
 const timezone = require('dayjs/plugin/timezone')
 const customParseFormat = require('dayjs/plugin/customParseFormat')
 require('dayjs/locale/ar')
 
 dayjs.extend(customParseFormat)
 dayjs.extend(timezone)
-dayjs.extend(utc)
+dayjs.extend(gmt)
 
 module.exports = {
   site: 'elcinema.com',
