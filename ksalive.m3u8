@@ -112,6 +112,8 @@ https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+Lawal_all/playlist.m3u8
 http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zqh0NX3.png" group-title="Islam",Bahrain Quran TV
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+Quran_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Beity.sa" group-title="MyHD" tvg-logo="https://i.imgur.com/7aD1yan.jpg",Beity
+http://82.212.74.2:8000/live/7312.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-logo="https://iptv-pro.github.io/logo/CartoonNetwork.png" status="online",Cartoon Network Arabia
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yhazt6X.png",CNBC Arabiya HD
@@ -182,13 +184,13 @@ http://server1.shasho.net:8000/yosri2021/z0605cGMMp/281
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="MBCDrama.ae" status="online" group-title="MyHD",MBC Drama HD KSA
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
-#EXTINF:-1 tvg-id="MBCDramaPlus.ae" status="online" group-title="MyHD",MBC Plus Drama HD
+#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-logo="https://i.imgur.com/F5ER0we.png" status="online" group-title="MyHD",MBC Plus Drama HD
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-id="MBCMasr1USA.ae" status="online" group-title="MyHD",MBC Masr USA
 https://shls-mbc-masr-usa-prod.shahid.net/out/v1/d4fded7d5df04b88b9ea1db61d00f095/index.m3u8
 #EXTINF:-1 tvg-id="MBCEgypt.ae" status="online" group-title="MyHD",MBC Maser
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
-#EXTINF:-1 tvg-id="MBCMasr2.ae" status="online" group-title="MyHD",MBC Masr 2
+#EXTINF:-1 tvg-id="MBCMasr2.ae" tvg-logo="https://i.imgur.com/EsdlVdo.png" status="online" group-title="MyHD",MBC Masr 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:-1 tvg-id="MBCIraq.ae" status="online" group-title="MyHD",MBC Iraq HD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
@@ -251,8 +253,34 @@ http://server.sibfungold.info:8080/live/gaicu84/UcNSL7T0ud/50964.m3u8
 #EXTINF:-1,Nile TV
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1786
 
-#EXTINF:-1,RT Arabic
-http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/62179
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/C7kfubs.png",Oman TV
+http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/sRlAGQD.png",Oman TV Cultural
+http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/stADjXC.png",Oman TV Mubashir
+http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/KcSgZg0.jpg",Palestine Satellite Channel
+https://pbc.furrera.ps/palestinehd/index.m3u8
+#EXTINF:-1 group-title="Undefined",Payam TV (720p)
+https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/bYz6HUG.png",Palestine Mubasher
+http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/KcSgZg0.jpg",Palestine Satellite Channel
+http://htvpalsat.mada.ps:8888/PBC/index.m3u8
+#EXTINF:-1 ,Palestine
+http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Palestine live
+http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Awdeh Palestine
+http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="http://www.qtv.qa/assets/images/logos/qtv.png",Qatar TV
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="http://www.qtv.qa/assets/images/logos/qtvTwo2.png",Qatar TV 2
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+
+
+#EXTINF:-1,group-title="News" tvg-logo="https://content.osn.com/logo/channel/cropped/RUS.png",RT Arabic
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RotanaCinema.sa" status="online" tvg-logo="https://i.imgur.com/pPhg5vR.png" group-title="MyHD",Rotana Cinema
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
@@ -317,8 +345,7 @@ https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
 https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
 #EXTINF:-1 tvg-id="AtfalWaMawaheb.sa" status="online",Atfal Wa Mawaheb (1080p)
 https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-#EXTINF:-1 tvg-id="Beity.sa" status="timeout",Beity FIX
-http://82.212.74.2:8000/live/7312.m3u8
+
 #EXTINF:-1 tvg-id="ENTV.sa" status="timeout",EN TV FIX
 http://82.212.74.100:8000/live/8130.m3u8
 #EXTINF:-1 tvg-id="IqraaAfricaEurope.sa" status="online",Iqraa Europe Africa
