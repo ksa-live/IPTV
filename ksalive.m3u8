@@ -154,31 +154,10 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/177434
 #EXTINF:0 tvg-country="AE" tvg-id="France24Arabic.fr" tvg-logo="" group-title="News",France 24 Arabic HD
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-id="NoorDubai.ae" status="online",Noor Dubai
-https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SamaDubai.ae" status="online",Sama Dubai
-https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Sharjah2.ae" status="online",Sharjah 2
-https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SharjahSports.ae" status="online",Sharjah Sports TV
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SharjahTV.ae" status="online",Sharjah TV
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Yas.ae" tvg-logo="https://yastv.ae/images/logo.png" status="online",Yas
-https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
-
-
-#EXTINF:-1,KTV 1
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3747
-#EXTINF:-1,KTV 2
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3748
-
-
-#EXTINF:-1 tvg-id="HawasTV.ae" status="online",Hawas TV (480p)
-https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PTOeIjz.png" group-title="Entertainment",LBC International
+http://zinachannels.zinamedia.net/ar-s/lbc-internatonal/index.m3u8
 #EXTINF:-1 tvg-id="MajidTV.ae" status="online",Majid TV (1080p)
 https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="",MBC
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 #EXTINF:-1 tvg-id="MBC.ae" status="online" group-title="MyHD",MBC
@@ -193,18 +172,10 @@ https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f8
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-id="MBC5.ae" status="online" group-title="MyHD",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-
-
-
 #EXTINF:-1 tvg-id="" status="online" group-title="MyHD",MBC Action HD
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/283
 #EXTINF:-1 tvg-id="" status="online" group-title="MyHD",MBC Max HD
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/281
-
-
-
-
-
 #EXTINF:-1 tvg-id="MBCBollywood.ae" status="blocked" group-title="MyHD",MBC Bollywood HD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="MBCDrama.ae" status="online" group-title="MyHD",MBC Drama HD KSA
@@ -229,6 +200,29 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9yvanaj.png" group-title="Entertainment",Musawa
 http://htvpalsat.mada.ps:8888/musawa/index.m3u8
+
+#EXTINF:-1 tvg-id="NoorDubai.ae" status="online",Noor Dubai
+https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SamaDubai.ae" status="online",Sama Dubai
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SharjahTV.ae" tvg-logo="https://i.imgur.com/VflN0Nn.png" group-title="MyHD" status="online",Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Sharjah2.ae" tvg-logo="https://i.imgur.com/VflN0Nn.png" group-title="MyHD" status="online",Sharjah 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SharjahSports.ae" tvg-logo="https://i.imgur.com/TVUDORc.png" group-title="Sports" status="online",Sharjah Sports TV
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Yas.ae" tvg-logo="https://yastv.ae/images/logo.png" status="online",Yas
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+
+
+#EXTINF:-1,KTV 1
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3747
+#EXTINF:-1,KTV 2
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3748
+
+
+#EXTINF:-1 tvg-id="HawasTV.ae" status="online",Hawas TV (480p)
+https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
 #EXTINF:-1 ttvg-logo="https://i.imgur.com/do7dyiO.png" group-title="News",NBN
 https://nbntv.me:8443/nbntv/index.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/XAYcgQb.png" group-title="MyHD",Nile Cinema
