@@ -200,12 +200,15 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 #EXTINF:-1 tvg-id="MBCFM.ae" status="online",MBC FM
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9yvanaj.png" group-title="Entertainment",Musawa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tFAg2dY.png" group-title="MyHD",Mekameleen TV
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9yvanaj.png" group-title="MyHD",Musawa
 http://htvpalsat.mada.ps:8888/musawa/index.m3u8
-
-#EXTINF:-1 tvg-id="NoorDubai.ae" status="online",Noor Dubai
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OMJsH8y.png" group-title="MyHD",Nabaa TV
+http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
+#EXTINF:-1 tvg-id="NoorDubai.ae" group-title="MyHD" status="online",Noor Dubai
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SamaDubai.ae" status="online",Sama Dubai
+#EXTINF:-1 tvg-id="SamaDubai.ae" group-title="MyHD" status="online",Sama Dubai
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SharjahTV.ae" tvg-logo="https://i.imgur.com/VflN0Nn.png" group-title="MyHD" status="online",Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
