@@ -154,6 +154,8 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/177434
 #EXTINF:0 tvg-country="AE" tvg-id="France24Arabic.fr" tvg-logo="" group-title="News",France 24 Arabic HD
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DkgjeAg.png" group-title="Entertainment",iFilm Arabic
+https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PTOeIjz.png" group-title="Entertainment",LBC International
 http://zinachannels.zinamedia.net/ar-s/lbc-internatonal/index.m3u8
 #EXTINF:-1 tvg-id="MajidTV.ae" status="online",Majid TV (1080p)
