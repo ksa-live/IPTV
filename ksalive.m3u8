@@ -106,7 +106,7 @@ https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/295480
 #EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-logo="https://iptv-pro.github.io/logo/CartoonNetwork.png" status="online",Cartoon Network Arabia
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
-#EXTINF:-1 tvg-logo="",CNBC Arabiya HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yhazt6X.png",CNBC Arabiya HD
 https://hiplayer.hibridcdn.net/p/cnbcarabia-live?fluxustv.m3u8
 #EXTINF:-1 tvg-id="CitrussTV.ae" status="blocked",Citruss TV
 https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
@@ -269,15 +269,15 @@ http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/26
 
 
 
-#EXTINF:-1 tvg-id="WeyyakAction.ae" status="online" tvg-logo="" group-title="MyHD",Weyyak Action
+#EXTINF:-1 tvg-id="WeyyakAction.ae" status="online" tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image" group-title="MyHD",Weyyak Action
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
-#EXTINF:-1 tvg-id="WeyyakDrama.ae" status="online" tvg-logo="" group-title="MyHD",Weyyak Drama
+#EXTINF:-1 tvg-id="WeyyakDrama.ae" status="online" tvg-logo="https://content.weyyak.com/d995517f-bc87-ea11-831d-02d662556796/poster-image" group-title="MyHD",Weyyak Drama
 https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
-#EXTINF:-1 tvg-id="WeyyakMix.ae" status="online" tvg-logo="" group-title="MyHD",Weyyak Mix
+#EXTINF:-1 tvg-id="WeyyakMix.ae" status="online" tvg-logo="https://content.weyyak.com/bc777336-328d-ea11-831d-02d662556796/poster-image" group-title="MyHD",Weyyak Mix
 https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
-#EXTINF:-1 tvg-id="WeyyakNawaem.ae" status="online" tvg-logo="" group-title="MyHD",Weyyak Nawaem
+#EXTINF:-1 tvg-id="WeyyakNawaem.ae" status="online" tvg-logo="https://content.weyyak.com/d867c2e9-328d-ea11-831d-02d662556796/poster-image" group-title="MyHD",Weyyak Nawaem
 https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
-#EXTINF:-1 tvg-id="ZeeAflam.in" tvg-logo"" status="online" tvg-logo="" group-title="MyHD",Zee Aflam
+#EXTINF:-1 tvg-id="ZeeAflam.in" status="online" tvg-logo="https://i.imgur.com/0VrRqcJ.png" group-title="MyHD",Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-id="ZeeAflam.in" status="online" tvg-logo="" group-title="MyHD",Zee Alwan
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
