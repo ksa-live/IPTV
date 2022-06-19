@@ -121,17 +121,17 @@ https://hiplayer.hibridcdn.net/p/cnbcarabia-live?fluxustv.m3u8
 #EXTINF:-1 tvg-id="CitrussTV.ae" status="blocked",Citruss TV
 https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
 #EXTINF:-1,DMC
-http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/15929
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/7217
 #EXTINF:-1,DMC Drama
-http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/15930
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/7218
 #EXTINF:-1,CBC
-http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/15723
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/31
 #EXTINF:-1,CBC Drama
-http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/15722
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1833
 #EXTINF:-1,CBC Extra
-http://server1.shasho.net:8000/yosri2021/z0605cGMMp/76
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/241
 #EXTINF:-1,CBC Sofra
-http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/15932
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/242
 #EXTINF:-1 tvg-id="DubaiOne.ae" status="online",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DubaiRacing.ae" status="online",Dubai Racing
@@ -202,8 +202,12 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 #EXTINF:-1 tvg-id="MBCFM.ae" status="online",MBC FM
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/MosTwQW.png",Medi 1 TV Arabic
+http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tFAg2dY.png" group-title="MyHD",Mekameleen TV
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1,MIX HOLLYWOOD
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/64281
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9yvanaj.png" group-title="MyHD",Musawa
 http://htvpalsat.mada.ps:8888/musawa/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OMJsH8y.png" group-title="MyHD",Nabaa TV
@@ -261,8 +265,6 @@ http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.
 http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/KcSgZg0.jpg",Palestine Satellite Channel
 https://pbc.furrera.ps/palestinehd/index.m3u8
-#EXTINF:-1 group-title="Undefined",Payam TV (720p)
-https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/bYz6HUG.png",Palestine Mubasher
 http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/KcSgZg0.jpg",Palestine Satellite Channel
@@ -304,7 +306,8 @@ https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/3033
 #EXTINF:-1 tvg-id="RotanaClip.sa" status="online" tvg-logo="" group-title="MyHD",Rotana Clip
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28
-
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Sa2nBTP.png",Roya TV
+https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BiFMsMs.png" group-title="Kids",Spacetoon
@@ -328,7 +331,7 @@ https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
 #EXTINF:-1 tvg-id="ZeeAflam.in" status="online" tvg-logo="https://i.imgur.com/0VrRqcJ.png" group-title="MyHD",Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-#EXTINF:-1 tvg-id="ZeeAflam.in" status="online" tvg-logo="" group-title="MyHD",Zee Alwan
+#EXTINF:-1 tvg-id="ZeeAflam.in" status="online" tvg-logo="https://content.weyyak.com/25a860af-4bbc-4289-8e1f-b3bed0dcc64a/poster-image" group-title="MyHD",Zee Alwan
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 
 
