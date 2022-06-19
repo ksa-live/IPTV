@@ -49,7 +49,7 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 http://rtmp1.abnsat.com/hls/arabic.m3u8
 
 
-#EXTINF:-1 tvg-country="Arab" tvg-logo="" group-title="News" tvg-id="Alarabiya.ae" status="online",Al Arabiya
+#EXTINF:-1 tvg-country="Arab" tvg-logo="https://i.imgur.com/VNtbK3l.png" group-title="News" tvg-id="Alarabiya.ae" status="online",Al Arabiya
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/AlArabiya/live
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="Music",Aghani Aghani TV
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1666
