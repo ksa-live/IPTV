@@ -43,7 +43,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/ekhbari
 
 #EXTINF:0 tvg-country="SA" tvg-logo="" group-title="MyHD",Saudi 24
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28988
-#EXTINF:-1 tvg-country="SA" group-title="MyHD" tvg-logo="https://i.imgur.com/j1Xmygq.jpg",SAUDI AJYAL TV
+#EXTINF:-1 tvg-country="SA" group-title="MyHD" tvg-logo="https://i.imgur.com/D4X5Jej.png",SAUDI AJYAL TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MyHD" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg",ABNsat
 http://rtmp1.abnsat.com/hls/arabic.m3u8
@@ -53,7 +53,7 @@ http://rtmp1.abnsat.com/hls/arabic.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/AlArabiya/live
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="Music",Aghani Aghani TV
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1666
-#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="News",Alhurra TV
+#EXTINF:0 tvg-country="Arab" tvg-logo="https://i.imgur.com/l84DSen.png" group-title="News",Alhurra TV
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/16959
 #EXTINF:0 tvg-country="JOR" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="MyHD",Al Mamlaka TV
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
@@ -110,6 +110,18 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 https://hiplayer.hibridcdn.net/p/cnbcarabia-live?fluxustv.m3u8
 #EXTINF:-1 tvg-id="CitrussTV.ae" status="blocked",Citruss TV
 https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
+#EXTINF:-1,DMC
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/15929
+#EXTINF:-1,DMC Drama
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/15930
+#EXTINF:-1,CBC
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/15723
+#EXTINF:-1,CBC Drama
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/15722
+#EXTINF:-1,CBC Extra
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/76
+#EXTINF:-1,CBC Sofra
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/15932
 #EXTINF:-1 tvg-id="DubaiOne.ae" status="online",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DubaiRacing.ae" status="online",Dubai Racing
@@ -152,18 +164,7 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3747
 #EXTINF:-1,KTV 2
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3748
-#EXTINF:-1,DMC
-http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/15929
-#EXTINF:-1,DMC Drama
-http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/15930
-#EXTINF:-1,CBC
-http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/15723
-#EXTINF:-1,CBC Drama
-http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/15722
-#EXTINF:-1,CBC Extra
-http://server1.shasho.net:8000/yosri2021/z0605cGMMp/76
-#EXTINF:-1,CBC Sofra
-http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/15932
+
 
 #EXTINF:-1 tvg-id="HawasTV.ae" status="online",Hawas TV (480p)
 https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
@@ -267,6 +268,9 @@ http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28
 #EXTINF:-1 tvg-logo="" group-title="MyHD",Rotana cinema EGY
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/26
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iJIHMq9.png" group-title="News",TRT Arabic
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
 
 
 #EXTINF:-1 tvg-id="WeyyakAction.ae" status="online" tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image" group-title="MyHD",Weyyak Action
