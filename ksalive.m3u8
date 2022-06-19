@@ -107,7 +107,7 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 #EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-logo="https://iptv-pro.github.io/logo/CartoonNetwork.png" status="online",Cartoon Network Arabia
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 tvg-logo="",CNBC Arabiya HD
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/73027
+https://hiplayer.hibridcdn.net/p/cnbcarabia-live?fluxustv.m3u8
 #EXTINF:-1 tvg-id="CitrussTV.ae" status="blocked",Citruss TV
 https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
 #EXTINF:-1 tvg-id="DubaiOne.ae" status="online",Dubai One
@@ -128,17 +128,12 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DubaiZaman.ae" status="online",Dubai Zaman
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
-#EXTINF:-1,Fox Action Movies 
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2831
-#EXTINF:-1,Fox Crime 
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/225371
-#EXTINF:-1,FOX Family Movies 
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/290465
-#EXTINF:-1,Fox Rewayat 
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/43820
-#EXTINF:-1,FOX Movies 
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/280688
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="News",DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:0 tvg-country="GB" tvg-id="France24English.fr" tvg-logo="" group-title="News",France 24 English HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/177434
+#EXTINF:0 tvg-country="AE" tvg-id="France24Arabic.fr" tvg-logo="" group-title="News",France 24 Arabic HD
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-id="NoorDubai.ae" status="online",Noor Dubai
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SamaDubai.ae" status="online",Sama Dubai
@@ -368,10 +363,6 @@ http://iptv4best.org:8080/iptv4best1y1/iptv4best/5382
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/283173
 #EXTINF:0 tvg-country="AR" tvg-id="Fann.ae" tvg-logo="" group-title="OSN",Fann
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/341
-#EXTINF:0 tvg-country="GB" tvg-id="France24English.fr" tvg-logo="" group-title="News",France 24 English HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/177434
-#EXTINF:0 tvg-country="AE" tvg-id="France24Arabic.fr" tvg-logo="" group-title="News",France 24 Arabic HD
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/285973
 
 
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="OSN",OSN Action HD
