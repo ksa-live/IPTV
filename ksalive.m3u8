@@ -91,7 +91,7 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8
 
 #EXTINF:-1 tvg-id="AlAanTV.ae" status="online",Al Aan
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x74wje5
-#EXTINF:-1 tvg-id="AlHadath.ae" status="online",Al Hadath
+#EXTINF:-1 tvg-id="AlHadath.ae" tvg-logo="https://i.imgur.com/1nSgfU0.png" group-title="News" status="online",Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlQamarTV.ae" status="online",Al Qamar TV
 https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
@@ -99,11 +99,13 @@ https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlWoustaTV.ae" status="online",Al Wousta TV 
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlYaumTV.ae" status="online",Al Yaum TV
+#EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png" group-title="United Arab Emirates" status="online",Al Yaum TV
 https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
 
 #EXTINF:0 tvg-country="BHR" tvg-id="BahrainTV.bh" tvg-logo="" group-title="",Bahrain TV HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/295480
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rE7AICZ.png" group-title="Sports",Bahrain TV Sports
+http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-logo="https://iptv-pro.github.io/logo/CartoonNetwork.png" status="online",Cartoon Network Arabia
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yhazt6X.png",CNBC Arabiya HD
@@ -219,8 +221,10 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 #EXTINF:-1 tvg-id="MBCFM.ae" status="online",MBC FM
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9yvanaj.png" group-title="Entertainment",Musawa
+http://htvpalsat.mada.ps:8888/musawa/index.m3u8
+#EXTINF:-1 ttvg-logo="https://i.imgur.com/do7dyiO.png" group-title="News",NBN
+https://nbntv.me:8443/nbntv/index.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/XAYcgQb.png" group-title="MyHD",Nile Cinema
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/220
 #EXTINF:0 tvg-country="EG" tvg-logo="" group-title="MyHD",Nile Comedy
@@ -268,6 +272,13 @@ http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28
 #EXTINF:-1 tvg-logo="" group-title="MyHD",Rotana cinema EGY
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/26
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BiFMsMs.png" group-title="Kids",Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I3BVVNG.png" group-title="MyHD",Syria TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b8C9BO2.png" group-title="MyHD",Sama TV
+http://stream5.sama-tv.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iJIHMq9.png" group-title="News",TRT Arabic
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
