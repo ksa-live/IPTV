@@ -762,16 +762,18 @@ http://iptv4best.org:8080/iptv4best4ddd/iptv4best/17750
 http://iptv4best.org:8080/iptv4best4ddd/iptv4best/17756
 #EXTINF:-1,beIN Sports Xtra 2 HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/283294
+#EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="Sport",Alkass Online
+http://free.fullspeed.tv/iptv-query?streaming-ip=http://live.multies.net/sports-ch/alkass-online/
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="Sport",Alkass One
-http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/92481
+http://free.fullspeed.tv/iptv-query?streaming-ip=http://live.multies.net/sports-ch/alkass-one/
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="Sport",Alkass Two
-http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/67273
+http://free.fullspeed.tv/iptv-query?streaming-ip=http://live.multies.net/sports-ch/alkass-two/live
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="Sport",Alkass Three
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/265157
+http://free.fullspeed.tv/iptv-query?streaming-ip=http://live.multies.net/sports-ch/alkass-three/
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="Sport",Alkass Four
-http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/67274
+http://free.fullspeed.tv/iptv-query?streaming-ip=http://live.multies.net/sports-ch/alkass-four/
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="Sport",Alkass Five
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/11901
+http://free.fullspeed.tv/iptv-query?streaming-ip=http://live.multies.net/sports-ch/alkass-five/
 
 
 
