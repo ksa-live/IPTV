@@ -642,6 +642,20 @@ https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 #EXTINF:-1 tvg-id="kMTV.uk" status="online",KMTV (576p)
 https://dk7psf0dh3v1r.cloudfront.net/KMTV/playlist.m3u8
+#EXTINF:-1,Sky Sports Mix
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/261
+#EXTINF:-1,Sky Sports Premier League
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/263
+#EXTINF:-1,Sky Sports Golf
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/264
+#EXTINF:-1,Sky Sports F1
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/265
+#EXTINF:-1,Sky Sports Football
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/266
+#EXTINF:-1,Sky Sports Arena
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/267
+#EXTINF:-1,Sky Sports Action
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/268
 
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sony
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1657
@@ -747,9 +761,9 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/105
 #EXTINF:-1,BeIn Sports 7
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/106
 #EXTINF:-1,beIN Sports English 1 HD
-http://iptv4best.org:8080/iptv4best4ddd/iptv4best/260908
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/110
 #EXTINF:-1,beIN Sports English 2 HD
-http://iptv4best.org:8080/iptv4best4ddd/iptv4best/260909
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/111
 #EXTINF:-1,beIN Sports English 3 HD
 http://iptv4best.org:8080/iptv4best4ddd/iptv4best/260910
 #EXTINF:-1,beIN Sports HD
