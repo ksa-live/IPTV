@@ -562,11 +562,21 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/183273
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",BBC Lifestyle
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/245615
 #EXTINF:-1,BT Sport 1
-http://sunshine.watch:25461/jwhitaker/8SHbZ4tkjO/1263
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/187534
 #EXTINF:-1,BT Sport 2
-http://sunshine.watch:25461/jwhitaker/8SHbZ4tkjO/1264
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/187533
 #EXTINF:-1,BT Sport 3
-http://sunshine.watch:25461/jwhitaker/8SHbZ4tkjO/1265
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123269
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sports Extra 1
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/179089
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sports Extra 2
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/189262
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sports Extra 3
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/189263
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sports Extra 4
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/179092
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Blaze
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/209246
 #EXTINF:-1 tvg=id"BloombergTVEurope.us",Bloomberg TV Europe
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/285988
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Boomerang
@@ -577,7 +587,7 @@ http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/233754
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1296
 #EXTINF:-1 group-title="UK",CBBC
 http://ott.riotelecomm.es:4513/m3u8/CBBCHDFIBRA.m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Cbs Reality FHD
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Cbs Reality
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/15024
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Challange HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/149264
@@ -588,15 +598,25 @@ http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/134443
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Channel 4 SD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/15045
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Channel 5 HD
-http://45.153.35.210:8000/play/UK_channel_5_sd/index.m3u8
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/15046
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Club MTV
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177390
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Clubland
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/233750
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Colors HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/15010
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Comedy Central HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/15014
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Comedy Extra HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/198452
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",DMAX  +1
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/209243
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Dave HD
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Dave
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/15042
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Dave ja vu
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/209245
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Eden HD
-http://sunshine.watch:25461/jwhitaker/8SHbZ4tkjO/5102
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/199514
 #EXTINF:-1 tvg-id="FadakTV.uk" tvg-country="UK" tvg-language="Arabic" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/FadakTV.png" group-title="Religious",Fadak TV (1080p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ddrricky/live
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Gold HD
