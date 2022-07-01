@@ -690,13 +690,22 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/266
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/267
 #EXTINF:-1,Sky Sports Action
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/268
-
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sky Atlantic HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1323
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sony
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1657
 
 #EXTINF:-1 group-title="UK",Quest UK
 http://sunshine.watch:25461/jwhitaker/8SHbZ4tkjO/5131
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Quest Red
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/209249
 
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",RTE News
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177442
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Really HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/15038
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Red Bull TV FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/199548
 #EXTINF:-1 tvg-id="RugbyMensSevens.uk" status="online",Rugby Men's Sevens (288p)
 https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="RugbyWomensSevens.uk" status="online",Rugby Women's Sevens (288p)
