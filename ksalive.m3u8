@@ -690,8 +690,51 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/266
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/267
 #EXTINF:-1,Sky Sports Action
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/268
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sky Arts HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/15020
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sky Arts SD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/207613
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sky Atlantic HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1323
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sky Cinema Action FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177564
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sky Cinema Action HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177565
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Christmas  FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177558
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sky Cinema Christmas HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/15016
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sky Cinema Comedy FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177561
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sky Cinema Comedy HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177560
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sky Cinema Family HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1332
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sky Cinema Greats FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177553
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sky Cinema Greats HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177554
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sky Cinema Hits HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/226528
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sky Cinema Premiere FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177555
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sky Cinema Premiere HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177556
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sky Cinema Sci-fi Horror FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177549
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sky Cinema Sci-fi Horror HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177550
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sky Cinema Thriller FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177552
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sky Cinema Thriller HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177551
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sky Living HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1325
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sky Living SD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177500
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sky Showcase tv
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/209242
+
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Sony
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1657
 
