@@ -533,10 +533,16 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/198448
 http://ott.riotelecomm.es:4513/m3u8/5USAFIBRA.m3u8
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",5 select
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/209250
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",AMC HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/339179
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Animal planet
-http://sunshine.watch:25461/jwhitaker/8SHbZ4tkjO/5064
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/134123
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Alibi HD
-http://sunshine.watch:25461/jwhitaker/8SHbZ4tkjO/5062
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/15032
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",At The Races
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/207582
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",At The Races HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/155637
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",BBC News
 http://45.153.35.210:8000/play/UK_bbc_news_sd/index.m3u8
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",BBC One
@@ -547,6 +553,12 @@ http://45.153.35.210:8000/play/UK_bbc_2_sd/index.m3u8
 http://45.153.35.210:8000/play/UK_bbc_3_sd/index.m3u8
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",BBC Four HD
 http://45.153.35.210:8000/play/UK_bbc_4_sd/index.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",BBC Earth
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/245616
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",BBC Entertainment HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/183273
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",BBC Lifestyle
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/245615
 #EXTINF:-1,BT Sport 1
 http://sunshine.watch:25461/jwhitaker/8SHbZ4tkjO/1263
 #EXTINF:-1,BT Sport 2
