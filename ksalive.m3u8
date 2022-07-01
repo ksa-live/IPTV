@@ -409,7 +409,7 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="OSN",Comedy Central HD
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/336
 #EXTINF:-1 tvg-country="Arab" tvg-logo="" group-title="OSN",Crime + Investigation UK
-http://server1.shasho.net:8000/yosri2021/z0605cGMMp/310
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/197242
 #EXTINF:0 tvg-country="Arab" tvg-logo="" group-title="Kids",Disney Junior HD
 http://iptv4best.org:8080/iptv4best1y1/iptv4best/5380
 
@@ -553,6 +553,8 @@ http://45.153.35.210:8000/play/UK_bbc_2_sd/index.m3u8
 http://45.153.35.210:8000/play/UK_bbc_3_sd/index.m3u8
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",BBC Four HD
 http://45.153.35.210:8000/play/UK_bbc_4_sd/index.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",BBC Brit
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/245617
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",BBC Earth
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/245616
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",BBC Entertainment HD
@@ -575,36 +577,56 @@ http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/233754
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1296
 #EXTINF:-1 group-title="UK",CBBC
 http://ott.riotelecomm.es:4513/m3u8/CBBCHDFIBRA.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Cbs Reality FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/15024
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Challange HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/149264
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",CITV
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/198455
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",CNBC Europe
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/134443
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Channel 4 SD
-http://45.153.35.210:8000/play/UK_channel_4_sd/index.m3u8
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/15045
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Channel 5 HD
 http://45.153.35.210:8000/play/UK_channel_5_sd/index.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",DMAX  +1
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/209243
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Dave HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/15042
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Dave ja vu
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/209245
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Eden HD
 http://sunshine.watch:25461/jwhitaker/8SHbZ4tkjO/5102
 #EXTINF:-1 tvg-id="FadakTV.uk" tvg-country="UK" tvg-language="Arabic" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/FadakTV.png" group-title="Religious",Fadak TV (1080p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ddrricky/live
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Gold HD
-http://sunshine.watch:25461/jwhitaker/8SHbZ4tkjO/5106
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/8564
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Great! Movies  +1
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/403412
+
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Great! Movies Action +1
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/15025
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Great! Movies Classic
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177536
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Great! Movies Classic +1
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/207585
+
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",Great! Movies Action
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/177539
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Great! Movies Classic
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/177536
 #EXTINF:-1 tvg-id="IdealWorldTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://www.idealworld.tv/gb/common/images/Cms/Header/iw-square.jpg" group-title="Shop",Ideal World TV (1080p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/IdealworldTvShopping/live
-#EXTINF:-1,ITV
-http://sunshine.watch:25461/jwhitaker/8SHbZ4tkjO/5112
-#EXTINF:-1,ITV 2
-http://45.153.35.210:8000/play/UK_itv_2_sd/index.m3u8
-#EXTINF:-1,ITV 3
-http://45.153.35.210:8000/play/UK_itv_3_sd/index.m3u8
-#EXTINF:-1,ITV 4
-http://45.153.35.210:8000/play/UK_itv_4_sd/index.m3u8
-#EXTINF:-1,ITV BE
-http://sunshine.watch:25461/jwhitaker/8SHbZ4tkjO/5116
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",ITV
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/150643
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",ITV 2
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/15049
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",ITV 3
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/15048
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",ITV 4
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/15047
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",ITV Be
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/133849
 #EXTINF:-1,Tru TV HD
 http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/32448
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Music",MTV CLASSIC
