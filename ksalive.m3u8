@@ -804,8 +804,8 @@ https://iptv-org.github.io/iptv/index.country.m3u
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/38578
 #EXTINF:-1 tvg-country="US" tvg-logo="" group-title="USA",Newsmax TV
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/38579
-
-
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="USA",Github
+https://iptv-org.github.io/iptv/index.country.m3u
 
 
 
