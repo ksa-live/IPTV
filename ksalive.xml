@@ -1,0 +1,3127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Rotana Classic">
+    <display-name lang="ar">Rotana Classic</display-name>
+    <url>http://www.elcinema.en.com</url>
+  </channel>
+  <channel id="MBC 2">
+    <display-name lang="ar">MBC 2</display-name>
+    <url>http://www.elcinema.en.com</url>
+  </channel>
+  <channel id="Future TV">
+    <display-name lang="ar">Future TV</display-name>
+    <url>http://www.elcinema.en.com</url>
+  </channel>
+  <channel id="OSN Yahala Dra...">
+    <display-name lang="ar">OSN Yahala Dra...</display-name>
+    <url>http://www.elcinema.en.com</url>
+  </channel>
+  <channel id="OSN Movies Kids">
+    <display-name lang="ar">OSN Movies Kids</display-name>
+    <url>http://www.elcinema.en.com</url>
+  </channel>
+  <channel id="OSN Movies Action">
+    <display-name lang="ar">OSN Movies Action</display-name>
+    <url>http://www.elcinema.en.com</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="ar">FX</display-name>
+    <url>http://www.elcinema.en.com</url>
+  </channel>
+  <channel id="OSN Premier +2">
+    <display-name lang="ar">OSN Premier +2</display-name>
+    <url>http://www.elcinema.en.com</url>
+  </channel>
+  <channel id="OSN Movies Comedy">
+    <display-name lang="ar">OSN Movies Comedy</display-name>
+    <url>http://www.elcinema.en.com</url>
+  </channel>
+  <channel id="MBC MAX">
+    <display-name lang="ar">MBC MAX</display-name>
+    <url>http://www.elcinema.en.com</url>
+  </channel>
+  <channel id="ART Aflam 1">
+    <display-name lang="ar">ART Aflam 1</display-name>
+    <url>http://www.elcinema.en.com</url>
+  </channel>
+  <channel id="Star Movies">
+    <display-name lang="ar">Star Movies</display-name>
+    <url>http://www.elcinema.en.com</url>
+  </channel>
+  <channel id="Orbit Cinema 1">
+    <display-name lang="ar">Orbit Cinema 1</display-name>
+    <url>http://www.elcinema.en.com</url>
+  </channel>
+  <channel id="Rotana Movies">
+    <display-name lang="ar">Rotana Movies</display-name>
+    <url>http://www.elcinema.en.com</url>
+  </channel>
+  <channel id="Fox Movies">
+    <display-name lang="ar">Fox Movies</display-name>
+    <url>http://www.elcinema.en.com</url>
+  </channel>
+  <channel id="OSN Premier">
+    <display-name lang="ar">OSN Premier</display-name>
+    <url>http://www.elcinema.en.com</url>
+  </channel>
+  <channel id="ART Aflam 2">
+    <display-name lang="ar">ART Aflam 2</display-name>
+    <url>http://www.elcinema.en.com</url>
+  </channel>
+  <channel id="OSN Movies">
+    <display-name lang="ar">OSN Movies</display-name>
+    <url>http://www.elcinema.en.com</url>
+  </channel>
+  <channel id="Al Nahar Drama">
+    <display-name lang="ar">Al Nahar Drama</display-name>
+    <url>http://www.elcinema.en.com</url>
+  </channel>
+  <channel id="Al Nahar TV">
+    <display-name lang="ar">Al Nahar TV</display-name>
+    <url>http://www.elcinema.en.com</url>
+  </channel>
+  <channel id="Mehwar">
+    <display-name lang="ar">Mehwar</display-name>
+    <url>http://www.elcinema.en.com</url>
+  </channel>
+  <channel id="Sada El Balad D...">
+    <display-name lang="ar">Sada El Balad D...</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="Nile Drama">
+    <display-name lang="ar">Nile Drama</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="Sada El Balad  +2">
+    <display-name lang="ar">Sada El Balad  +2</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="MBC Action">
+    <display-name lang="ar">MBC Action</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="Sama Dubai">
+    <display-name lang="ar">Sama Dubai</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="MBC">
+    <display-name lang="ar">MBC</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="MBC Egypt">
+    <display-name lang="ar">MBC Egypt</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="MBC MASR 2">
+    <display-name lang="ar">MBC MASR 2</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="MBC 4">
+    <display-name lang="ar">MBC 4</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="ONTV">
+    <display-name lang="ar">ONTV</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="CBC">
+    <display-name lang="ar">CBC</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="Rotana Cinema">
+    <display-name lang="ar">Rotana Cinema</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="Sada El Balad">
+    <display-name lang="ar">Sada El Balad</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="OSN First Comed...">
+    <display-name lang="ar">OSN First Comed...</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="OSN First">
+    <display-name lang="ar">OSN First</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="OSN First +2">
+    <display-name lang="ar">OSN First +2</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="OSN Movies Drama">
+    <display-name lang="ar">OSN Movies Drama</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="OSN Movies Dram...">
+    <display-name lang="ar">OSN Movies Dram...</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="Orbit Cinema 2">
+    <display-name lang="ar">Orbit Cinema 2</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="Alhayat Series">
+    <display-name lang="ar">Alhayat Series</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="Alhayat  2">
+    <display-name lang="ar">Alhayat  2</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="ART Stories 2">
+    <display-name lang="ar">ART Stories 2</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="ART More Stories">
+    <display-name lang="ar">ART More Stories</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="Dubai Drama">
+    <display-name lang="ar">Dubai Drama</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="CBC Drama">
+    <display-name lang="ar">CBC Drama</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="LBC Europe">
+    <display-name lang="ar">LBC Europe</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="Al Nahar Drama +2">
+    <display-name lang="ar">Al Nahar Drama +2</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="Dream 1">
+    <display-name lang="ar">Dream 1</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="El Zafra">
+    <display-name lang="ar">El Zafra</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="ART Stories">
+    <display-name lang="ar">ART Stories</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="LBC Drama">
+    <display-name lang="ar">LBC Drama</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="ONTV PLUS">
+    <display-name lang="ar">ONTV PLUS</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="E Entertainment">
+    <display-name lang="ar">E Entertainment</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="OSN Movies  2">
+    <display-name lang="ar">OSN Movies  2</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="OSN Ya Hala">
+    <display-name lang="ar">OSN Ya Hala</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="MBC Drama">
+    <display-name lang="ar">MBC Drama</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="Dubai Zaman">
+    <display-name lang="ar">Dubai Zaman</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="ART Cinema">
+    <display-name lang="ar">ART Cinema</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="Al Safwa">
+    <display-name lang="ar">Al Safwa</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="Osn Ya Hala Cinema">
+    <display-name lang="ar">Osn Ya Hala Cinema</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="Dubai TV">
+    <display-name lang="ar">Dubai TV</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="ar">Animal Planet HD</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="Alhayat TV">
+    <display-name lang="ar">Alhayat TV</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="ITV Choice">
+    <display-name lang="ar">ITV Choice</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="Al Nahar +2">
+    <display-name lang="ar">Al Nahar +2</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="OSN Yahala Shab...">
+    <display-name lang="ar">OSN Yahala Shab...</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="OSN First HBO">
+    <display-name lang="ar">OSN First HBO</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="Orbit Series +2">
+    <display-name lang="ar">Orbit Series +2</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="Fan">
+    <display-name lang="ar">Fan</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="OSN First Comedy">
+    <display-name lang="ar">OSN First Comedy</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="OSN Movies Fest...">
+    <display-name lang="ar">OSN Movies Fest...</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="LBC International">
+    <display-name lang="ar">LBC International</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="Orbit Series">
+    <display-name lang="ar">Orbit Series</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="Disney channel">
+    <display-name lang="ar">Disney channel</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="CBC +2">
+    <display-name lang="ar">CBC +2</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="ar">TLC</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="ar">AMC</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="Fox">
+    <display-name lang="ar">Fox</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <programme start="20221112010000 +0200" stop="20221112030000 +0200" channel="Rotana Classic">
+    <title lang="ar">الكيت كات</title>
+    <title lang="ar">فيلم-عادي
+               (1991)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112030000 +0200" stop="20221112053000 +0200" channel="Rotana Classic">
+    <title lang="ar">مليون جنيه</title>
+    <title lang="ar">فيلم-عادي
+               (1953)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112053000 +0200" stop="20221112060000 +0200" channel="Rotana Classic">
+    <title lang="ar">سهرة طربية من اغانى الافلام</title>
+    <title lang="ar">05:30  صباحًا
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20221112060000 +0200" stop="20221112080000 +0200" channel="Rotana Classic">
+    <title lang="ar">سر طاقية الإخفاء</title>
+    <title lang="ar">فيلم-عادي
+               (1959)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112080000 +0200" stop="20221112100000 +0200" channel="Rotana Classic">
+    <title lang="ar">كلمة شرف</title>
+    <title lang="ar">فيلم-عادي
+               (1973)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112100000 +0200" stop="20221112120000 +0200" channel="Rotana Classic">
+    <title lang="ar">زوجة رجل مهم</title>
+    <title lang="ar">فيلم-عادي
+               (1988)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112120000 +0200" stop="20221112123000 +0200" channel="Rotana Classic">
+    <title lang="ar">استعراضات الوان</title>
+    <title lang="ar">12:00  مساءً
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20221112123000 +0200" stop="20221112143000 +0200" channel="Rotana Classic">
+    <title lang="ar">لسنا ملائكة</title>
+    <title lang="ar">فيلم-عادي
+               (1970)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112143000 +0200" stop="20221112150000 +0200" channel="Rotana Classic">
+    <title lang="ar">سهرة طربية من اغانى الافلام</title>
+    <title lang="ar">02:30  مساءً
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20221112150000 +0200" stop="20221112160000 +0200" channel="Rotana Classic">
+    <title lang="ar">حفلة أم كلثوم</title>
+    <title lang="ar">03:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20221112160000 +0200" stop="20221112183000 +0200" channel="Rotana Classic">
+    <title lang="ar">أفواه وأرانب</title>
+    <title lang="ar">فيلم-عادي
+               (1977)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112183000 +0200" stop="20221112190000 +0200" channel="Rotana Classic">
+    <title lang="ar">اغانى من حفلات</title>
+    <title lang="ar">06:30  مساءً
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20221112190000 +0200" stop="20221112200000 +0200" channel="Rotana Classic">
+    <title lang="ar">حفلة أم كلثوم</title>
+    <title lang="ar">07:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20221112200000 +0200" stop="20221112220000 +0200" channel="Rotana Classic">
+    <title lang="ar">كلمة شرف</title>
+    <title lang="ar">فيلم-عادي
+               (1973)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112220000 +0200" stop="20221113000000 +0200" channel="Rotana Classic">
+    <title lang="ar">سر طاقية الإخفاء</title>
+    <title lang="ar">فيلم-عادي
+               (1959)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113000000 +0200" stop="20221113003000 +0200" channel="Rotana Classic">
+    <title lang="ar">استعراضات الوان</title>
+    <title lang="ar">12:00  صباحًا
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20221113003000 +0200" stop="20221113010000 +0200" channel="Rotana Classic">
+    <title lang="ar">اغانى من حفلات قديمة</title>
+    <title lang="ar">12:30  صباحًا
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20221113010000 +0200" stop="20221113030000 +0200" channel="Rotana Classic">
+    <title lang="ar">زوجة رجل مهم</title>
+    <title lang="ar">فيلم-عادي
+               (1988)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113030000 +0200" stop="20221113053000 +0200" channel="Rotana Classic">
+    <title lang="ar">أفواه وأرانب</title>
+    <title lang="ar">فيلم-عادي
+               (1977)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113060000 +0200" stop="20221113080000 +0200" channel="Rotana Classic">
+    <title lang="ar">لسنا ملائكة</title>
+    <title lang="ar">فيلم-عادي
+               (1970)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113080000 +0200" stop="20221113100000 +0200" channel="Rotana Classic">
+    <title lang="ar">حب لا أنساه</title>
+    <title lang="ar">فيلم-عادي
+               (1963)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113100000 +0200" stop="20221113120000 +0200" channel="Rotana Classic">
+    <title lang="ar">مطاردة في الممنوع</title>
+    <title lang="ar">فيلم-عادي
+               (1993)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113120000 +0200" stop="20221113123000 +0200" channel="Rotana Classic">
+    <title lang="ar">اغانى افلام ابيض واسود</title>
+    <title lang="ar">12:00  مساءً
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20221113123000 +0200" stop="20221113143000 +0200" channel="Rotana Classic">
+    <title lang="ar">شباب مجنون جداً</title>
+    <title lang="ar">فيلم-عادي
+               (1967)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113143000 +0200" stop="20221113150000 +0200" channel="Rotana Classic">
+    <title lang="ar">بورتريه</title>
+    <title lang="ar">02:30  مساءً
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20221113160000 +0200" stop="20221113183000 +0200" channel="Rotana Classic">
+    <title lang="ar">الفرن</title>
+    <title lang="ar">فيلم-عادي
+               (1984)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113200000 +0200" stop="20221113220000 +0200" channel="Rotana Classic">
+    <title lang="ar">حب لا أنساه</title>
+    <title lang="ar">فيلم-عادي
+               (1963)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113220000 +0200" stop="20221114000000 +0200" channel="Rotana Classic">
+    <title lang="ar">لسنا ملائكة</title>
+    <title lang="ar">فيلم-عادي
+               (1970)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114000000 +0200" stop="20221114003000 +0200" channel="Rotana Classic">
+    <title lang="ar">اغانى افلام ابيض واسود</title>
+    <title lang="ar">12:00  صباحًا
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20221114010000 +0200" stop="20221114030000 +0200" channel="Rotana Classic">
+    <title lang="ar">مطاردة في الممنوع</title>
+    <title lang="ar">فيلم-عادي
+               (1993)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114030000 +0200" stop="20221114053000 +0200" channel="Rotana Classic">
+    <title lang="ar">الفرن</title>
+    <title lang="ar">فيلم-عادي
+               (1984)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114053000 +0200" stop="20221114060000 +0200" channel="Rotana Classic">
+    <title lang="ar">خلف الكواليس + نجوم كلاسيك</title>
+    <title lang="ar">05:30  صباحًا
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20221114060000 +0200" stop="20221114080000 +0200" channel="Rotana Classic">
+    <title lang="ar">شباب مجنون جداً</title>
+    <title lang="ar">فيلم-عادي
+               (1967)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114080000 +0200" stop="20221114100000 +0200" channel="Rotana Classic">
+    <title lang="ar">مطاردة غرامية</title>
+    <title lang="ar">فيلم-عادي
+               (1968)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114100000 +0200" stop="20221114120000 +0200" channel="Rotana Classic">
+    <title lang="ar">بعيدًا عن الأرض</title>
+    <title lang="ar">فيلم-عادي
+               (1976)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112013000 +0200" stop="20221112033000 +0200" channel="MBC 2">
+    <title lang="ar">The Commuter</title>
+    <title lang="ar">فيلم-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112033000 +0200" stop="20221112040000 +0200" channel="MBC 2">
+    <title lang="ar">Films &amp; Stars</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ-عادي
+               (2008)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112040000 +0200" stop="20221112060500 +0200" channel="MBC 2">
+    <title lang="ar">Taken 3</title>
+    <title lang="ar">فيلم-عادي
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112060500 +0200" stop="20221112063000 +0200" channel="MBC 2">
+    <title lang="ar">برنامج Making The movies</title>
+    <title lang="ar">06:05  صباحًا
+              [25 دقيقة]</title>
+  </programme>
+  <programme start="20221112063000 +0200" stop="20221112083000 +0200" channel="MBC 2">
+    <title lang="ar">Conviction</title>
+    <title lang="ar">فيلم-عادي
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112083000 +0200" stop="20221112090000 +0200" channel="MBC 2">
+    <title lang="ar">Entertainment Tonight</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ-عادي
+               (1981)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112090000 +0200" stop="20221112110000 +0200" channel="MBC 2">
+    <title lang="ar">Home Alone 2: Lost in New York</title>
+    <title lang="ar">فيلم-عادي
+               (1992)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112110000 +0200" stop="20221112130000 +0200" channel="MBC 2">
+    <title lang="ar">Mad Money</title>
+    <title lang="ar">فيلم-عادي
+               (2008)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112130000 +0200" stop="20221112143500 +0200" channel="MBC 2">
+    <title lang="ar">Life of Crime</title>
+    <title lang="ar">فيلم-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112143500 +0200" stop="20221112150000 +0200" channel="MBC 2">
+    <title lang="ar">Action Zone</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ-عادي
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112150000 +0200" stop="20221112170000 +0200" channel="MBC 2">
+    <title lang="ar">The Spy Who Dumped Me</title>
+    <title lang="ar">فيلم-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112170000 +0200" stop="20221112190000 +0200" channel="MBC 2">
+    <title lang="ar">Gringo</title>
+    <title lang="ar">فيلم-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112190000 +0200" stop="20221112210000 +0200" channel="MBC 2">
+    <title lang="ar">برنامج Celebrity Scoop</title>
+    <title lang="ar">07:00  مساءً
+              [120 دقيقة]</title>
+  </programme>
+  <programme start="20221112210000 +0200" stop="20221112230000 +0200" channel="MBC 2">
+    <title lang="ar">فيلم</title>
+    <title lang="ar">09:00  مساءً
+              [120 دقيقة]</title>
+  </programme>
+  <programme start="20221112230000 +0200" stop="20221113013000 +0200" channel="MBC 2">
+    <title lang="ar">فيلم</title>
+    <title lang="ar">11:00  مساءً
+              [150 دقيقة]</title>
+  </programme>
+  <programme start="20221113013000 +0200" stop="20221113031000 +0200" channel="MBC 2">
+    <title lang="ar">Life of Crime</title>
+    <title lang="ar">فيلم-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113031000 +0200" stop="20221113034000 +0200" channel="MBC 2">
+    <title lang="ar">Films &amp; Stars</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ-عادي
+               (2008)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113034000 +0200" stop="20221113053000 +0200" channel="MBC 2">
+    <title lang="ar">Facing Ali</title>
+    <title lang="ar">فيلم-عادي
+               (2009)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113053000 +0200" stop="20221113073000 +0200" channel="MBC 2">
+    <title lang="ar">Mad Money</title>
+    <title lang="ar">فيلم-عادي
+               (2008)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113073000 +0200" stop="20221113090000 +0200" channel="MBC 2">
+    <title lang="ar">Happythankyoumoreplease</title>
+    <title lang="ar">فيلم-عادي
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113090000 +0200" stop="20221113110000 +0200" channel="MBC 2">
+    <title lang="ar">Third Person</title>
+    <title lang="ar">فيلم-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113110000 +0200" stop="20221113113000 +0200" channel="MBC 2">
+    <title lang="ar">Action Zone</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ-عادي
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113113000 +0200" stop="20221113130000 +0200" channel="MBC 2">
+    <title lang="ar">Couples Retreat</title>
+    <title lang="ar">فيلم-عادي
+               (2009)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113130000 +0200" stop="20221113133000 +0200" channel="MBC 2">
+    <title lang="ar">سكووب مع ريا</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ-عادي
+               (2012)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113133000 +0200" stop="20221113153000 +0200" channel="MBC 2">
+    <title lang="ar">The Vow</title>
+    <title lang="ar">فيلم-عادي
+               (2012)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113153000 +0200" stop="20221113173000 +0200" channel="MBC 2">
+    <title lang="ar">The Five-Year Engagement</title>
+    <title lang="ar">فيلم-عادي
+               (2012)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113173000 +0200" stop="20221113190000 +0200" channel="MBC 2">
+    <title lang="ar">Us</title>
+    <title lang="ar">فيلم-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113190000 +0200" stop="20221113210000 +0200" channel="MBC 2">
+    <title lang="ar">فيلم</title>
+    <title lang="ar">07:00  مساءً
+              [120 دقيقة]</title>
+  </programme>
+  <programme start="20221113230000 +0200" stop="20221114003000 +0200" channel="MBC 2">
+    <title lang="ar">فيلم</title>
+    <title lang="ar">11:00  مساءً
+              [90 دقيقة]</title>
+  </programme>
+  <programme start="20221114003000 +0200" stop="20221114010000 +0200" channel="MBC 2">
+    <title lang="ar">سكووب مع ريا</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ-عادي
+               (2012)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114010000 +0200" stop="20221114030000 +0200" channel="MBC 2">
+    <title lang="ar">The Vow</title>
+    <title lang="ar">فيلم-عادي
+               (2012)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114030000 +0200" stop="20221114043000 +0200" channel="MBC 2">
+    <title lang="ar">Couples Retreat</title>
+    <title lang="ar">فيلم-عادي
+               (2009)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114043000 +0200" stop="20221114050000 +0200" channel="MBC 2">
+    <title lang="ar">Films &amp; Stars</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ-عادي
+               (2008)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114050000 +0200" stop="20221114070000 +0200" channel="MBC 2">
+    <title lang="ar">The Commuter</title>
+    <title lang="ar">فيلم-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114070000 +0200" stop="20221114083000 +0200" channel="MBC 2">
+    <title lang="ar">Garfield</title>
+    <title lang="ar">فيلم-عادي
+               (2004)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114083000 +0200" stop="20221114090000 +0200" channel="MBC 2">
+    <title lang="ar">سكووب مع ريا</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ-عادي
+               (2012)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114090000 +0200" stop="20221114103000 +0200" channel="MBC 2">
+    <title lang="ar">Brick Mansions</title>
+    <title lang="ar">فيلم-عادي
+               (2014)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114103000 +0200" stop="20221114110000 +0200" channel="MBC 2">
+    <title lang="ar">Action Zone</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ-عادي
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114110000 +0200" stop="20221114130000 +0200" channel="MBC 2">
+    <title lang="ar">Colombiana</title>
+    <title lang="ar">فيلم-عادي
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112005500 +0200" stop="20221112021500 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Bamse and the Thief City</title>
+    <title lang="ar">فيلم-عادي
+               (2014)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112021500 +0200" stop="20221112033500 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Ploddy the Police Car on the Case</title>
+    <title lang="ar">فيلم-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112033500 +0200" stop="20221112043500 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Funny Little Cars</title>
+    <title lang="ar">مسلسل-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112043500 +0200" stop="20221112060000 +0200" channel="OSN Movies Kids">
+    <title lang="ar">The Wish Fish</title>
+    <title lang="ar">فيلم-عادي
+               (2012)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112060000 +0200" stop="20221112071500 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Knerten i knipe</title>
+    <title lang="ar">فيلم-عادي
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112071500 +0200" stop="20221112084500 +0200" channel="OSN Movies Kids">
+    <title lang="ar">The Emperor's Secret</title>
+    <title lang="ar">فيلم-عادي
+               (2006)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112084500 +0200" stop="20221112101000 +0200" channel="OSN Movies Kids">
+    <title lang="ar">The Great Bear</title>
+    <title lang="ar">فيلم-عادي
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112101000 +0200" stop="20221112115500 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Victor and the Secret of Crocodile Mansion</title>
+    <title lang="ar">فيلم-عادي
+               (2012)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112115500 +0200" stop="20221112131500 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Bamse and the Thief City</title>
+    <title lang="ar">فيلم-عادي
+               (2014)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112131500 +0200" stop="20221112144000 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Knerten i knipe</title>
+    <title lang="ar">فيلم-عادي
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112144000 +0200" stop="20221112155500 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Ploddy the Police Car on the Case</title>
+    <title lang="ar">فيلم-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112155500 +0200" stop="20221112172000 +0200" channel="OSN Movies Kids">
+    <title lang="ar">The Great Bear</title>
+    <title lang="ar">فيلم-عادي
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112172000 +0200" stop="20221112190000 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Victor and the Secret of Crocodile Mansion</title>
+    <title lang="ar">فيلم-عادي
+               (2012)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112190000 +0200" stop="20221112201500 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Bamse and the Thief City</title>
+    <title lang="ar">فيلم-عادي
+               (2014)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112201500 +0200" stop="20221112213000 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Ploddy the Police Car on the Case</title>
+    <title lang="ar">فيلم-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112213000 +0200" stop="20221112224500 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Knerten i knipe</title>
+    <title lang="ar">فيلم-عادي
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112224500 +0200" stop="20221113001500 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Cop Dog/ Marlowe</title>
+    <title lang="ar">فيلم-عادي
+               (2008)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113001500 +0200" stop="20221113013500 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Farm Friends</title>
+    <title lang="ar">مسلسل-عادي
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113013500 +0200" stop="20221113025000 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Ploddy the Police Car on the Case</title>
+    <title lang="ar">فيلم-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113025000 +0200" stop="20221113041500 +0200" channel="OSN Movies Kids">
+    <title lang="ar">The Great Bear</title>
+    <title lang="ar">فيلم-عادي
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113041500 +0200" stop="20221113060000 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Victor and the Secret of Crocodile Mansion</title>
+    <title lang="ar">فيلم-عادي
+               (2012)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113060000 +0200" stop="20221113071500 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Krazzy Planet</title>
+    <title lang="ar">فيلم-عادي
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113071500 +0200" stop="20221113084500 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Cop Dog/ Marlowe</title>
+    <title lang="ar">فيلم-عادي
+               (2008)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113084500 +0200" stop="20221113102500 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Khan Kluay 2</title>
+    <title lang="ar">فيلم-عادي
+               (2009)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113102500 +0200" stop="20221113115000 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Marvin Airlines</title>
+    <title lang="ar">فيلم-عادي
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113115000 +0200" stop="20221113131000 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Farm Friends</title>
+    <title lang="ar">مسلسل-عادي
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113131000 +0200" stop="20221113143000 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Krazzy Planet</title>
+    <title lang="ar">فيلم-عادي
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113143000 +0200" stop="20221113155000 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Ploddy the Police Car on the Case</title>
+    <title lang="ar">فيلم-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113155000 +0200" stop="20221113173500 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Khan Kluay 2</title>
+    <title lang="ar">فيلم-عادي
+               (2009)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113173500 +0200" stop="20221113190000 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Marvin Airlines</title>
+    <title lang="ar">فيلم-عادي
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113190000 +0200" stop="20221113202000 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Farm Friends</title>
+    <title lang="ar">مسلسل-عادي
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113202000 +0200" stop="20221113213500 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Ploddy the Police Car Makes a Splash</title>
+    <title lang="ar">فيلم-عادي
+               (2009)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113213500 +0200" stop="20221113225000 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Krazzy Planet</title>
+    <title lang="ar">فيلم-عادي
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113225000 +0200" stop="20221114001000 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Hokus pokus Albert Åberg</title>
+    <title lang="ar">فيلم-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114001000 +0200" stop="20221114014000 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Help And Freedom</title>
+    <title lang="ar">فيلم-عادي
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114014000 +0200" stop="20221114030000 +0200" channel="OSN Movies Kids">
+    <title lang="ar">The Wheelers</title>
+    <title lang="ar">فيلم-عادي
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114030000 +0200" stop="20221114044000 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Khan Kluay 2</title>
+    <title lang="ar">فيلم-عادي
+               (2009)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114044000 +0200" stop="20221114060000 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Marvin Airlines</title>
+    <title lang="ar">فيلم-عادي
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114060000 +0200" stop="20221114073500 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Mia and the Migoo</title>
+    <title lang="ar">فيلم-عادي
+               (2008)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114073500 +0200" stop="20221114085000 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Hokus pokus Albert Åberg</title>
+    <title lang="ar">فيلم-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114085000 +0200" stop="20221114101500 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Honey Honey Bear</title>
+    <title lang="ar">فيلم-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114101500 +0200" stop="20221114114500 +0200" channel="OSN Movies Kids">
+    <title lang="ar">Operation Arctic</title>
+    <title lang="ar">فيلم-عادي
+               (2014)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112015000 +0200" stop="20221112042500 +0200" channel="OSN Movies Action">
+    <title lang="ar">The Dark Knight Rises</title>
+    <title lang="ar">فيلم-عادي
+               (2012)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112042500 +0200" stop="20221112061500 +0200" channel="OSN Movies Action">
+    <title lang="ar">Bleeding Steel</title>
+    <title lang="ar">فيلم-عادي
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112061500 +0200" stop="20221112075500 +0200" channel="OSN Movies Action">
+    <title lang="ar">Killers</title>
+    <title lang="ar">فيلم-عادي
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112075500 +0200" stop="20221112092000 +0200" channel="OSN Movies Action">
+    <title lang="ar">I, Frankenstein</title>
+    <title lang="ar">فيلم-عادي
+               (2014)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112092000 +0200" stop="20221112111500 +0200" channel="OSN Movies Action">
+    <title lang="ar">Skylines</title>
+    <title lang="ar">فيلم-عادي
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112111500 +0200" stop="20221112124000 +0200" channel="OSN Movies Action">
+    <title lang="ar">Lucy</title>
+    <title lang="ar">فيلم-عادي
+               (2014)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112124000 +0200" stop="20221112140000 +0200" channel="OSN Movies Action">
+    <title lang="ar">Hansel &amp; Gretel: Witch Hunters</title>
+    <title lang="ar">فيلم-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112140000 +0200" stop="20221112154000 +0200" channel="OSN Movies Action">
+    <title lang="ar">Behind Enemy Lines</title>
+    <title lang="ar">فيلم-عادي
+               (2001)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112154000 +0200" stop="20221112172000 +0200" channel="OSN Movies Action">
+    <title lang="ar">2 Guns</title>
+    <title lang="ar">فيلم-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112172000 +0200" stop="20221112191500 +0200" channel="OSN Movies Action">
+    <title lang="ar">Skylines</title>
+    <title lang="ar">فيلم-عادي
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112191500 +0200" stop="20221112204000 +0200" channel="OSN Movies Action">
+    <title lang="ar">Lucy</title>
+    <title lang="ar">فيلم-عادي
+               (2014)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112204000 +0200" stop="20221112220000 +0200" channel="OSN Movies Action">
+    <title lang="ar">Hansel &amp; Gretel: Witch Hunters</title>
+    <title lang="ar">فيلم-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112220000 +0200" stop="20221112234000 +0200" channel="OSN Movies Action">
+    <title lang="ar">Behind Enemy Lines</title>
+    <title lang="ar">فيلم-عادي
+               (2001)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112234000 +0200" stop="20221113013000 +0200" channel="OSN Movies Action">
+    <title lang="ar">Bleeding Steel</title>
+    <title lang="ar">فيلم-عادي
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113013000 +0200" stop="20221113031000 +0200" channel="OSN Movies Action">
+    <title lang="ar">Killers</title>
+    <title lang="ar">فيلم-عادي
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113031000 +0200" stop="20221113043500 +0200" channel="OSN Movies Action">
+    <title lang="ar">I, Frankenstein</title>
+    <title lang="ar">فيلم-عادي
+               (2014)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113043500 +0200" stop="20221113061500 +0200" channel="OSN Movies Action">
+    <title lang="ar">DragonHeart</title>
+    <title lang="ar">فيلم-عادي
+               (1996)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113061500 +0200" stop="20221113083000 +0200" channel="OSN Movies Action">
+    <title lang="ar">Robin Hood</title>
+    <title lang="ar">فيلم-عادي
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113083000 +0200" stop="20221113101000 +0200" channel="OSN Movies Action">
+    <title lang="ar">Lara Croft: Tomb Raider</title>
+    <title lang="ar">فيلم-عادي
+               (2001)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113101000 +0200" stop="20221113115500 +0200" channel="OSN Movies Action">
+    <title lang="ar">Top Gun</title>
+    <title lang="ar">فيلم-عادي
+               (1986)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113115500 +0200" stop="20221113141500 +0200" channel="OSN Movies Action">
+    <title lang="ar">Mission: Impossible - Fallout</title>
+    <title lang="ar">فيلم-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113141500 +0200" stop="20221113161500 +0200" channel="OSN Movies Action">
+    <title lang="ar">Fast &amp; Furious 6</title>
+    <title lang="ar">فيلم-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113161500 +0200" stop="20221113182000 +0200" channel="OSN Movies Action">
+    <title lang="ar">Furious Seven</title>
+    <title lang="ar">فيلم-عادي
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113182000 +0200" stop="20221113202000 +0200" channel="OSN Movies Action">
+    <title lang="ar">Sicario: Day of the Soldado</title>
+    <title lang="ar">فيلم-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113202000 +0200" stop="20221113220500 +0200" channel="OSN Movies Action">
+    <title lang="ar">Top Gun</title>
+    <title lang="ar">فيلم-عادي
+               (1986)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113220500 +0200" stop="20221114002500 +0200" channel="OSN Movies Action">
+    <title lang="ar">Mission: Impossible - Fallout</title>
+    <title lang="ar">فيلم-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114002500 +0200" stop="20221114020500 +0200" channel="OSN Movies Action">
+    <title lang="ar">DragonHeart</title>
+    <title lang="ar">فيلم-عادي
+               (1996)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114020500 +0200" stop="20221114042000 +0200" channel="OSN Movies Action">
+    <title lang="ar">Robin Hood</title>
+    <title lang="ar">فيلم-عادي
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114042000 +0200" stop="20221114060000 +0200" channel="OSN Movies Action">
+    <title lang="ar">Lara Croft: Tomb Raider</title>
+    <title lang="ar">فيلم-عادي
+               (2001)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114060000 +0200" stop="20221114075500 +0200" channel="OSN Movies Action">
+    <title lang="ar">Paycheck</title>
+    <title lang="ar">فيلم-عادي
+               (2003)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114075500 +0200" stop="20221114093500 +0200" channel="OSN Movies Action">
+    <title lang="ar">Ghost in the Shell</title>
+    <title lang="ar">فيلم-عادي
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114093500 +0200" stop="20221114112000 +0200" channel="OSN Movies Action">
+    <title lang="ar">Lara Croft Tomb Raider: The Cradle Of Life</title>
+    <title lang="ar">فيلم-عادي
+               (2003)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114112000 +0200" stop="20221114133500 +0200" channel="OSN Movies Action">
+    <title lang="ar">Face/Off</title>
+    <title lang="ar">فيلم-عادي
+               (1997)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112014000 +0200" stop="20221112031500 +0200" channel="FX">
+    <title lang="ar">Kill Switch</title>
+    <title lang="ar">فيلم-عادي
+               (2008)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112031500 +0200" stop="20221112040500 +0200" channel="FX">
+    <title lang="ar">Outcast</title>
+    <title lang="ar">مسلسل-عادي
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112040500 +0200" stop="20221112045000 +0200" channel="FX">
+    <title lang="ar">Killing Eve S1</title>
+    <title lang="ar">مسلسل-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112045000 +0200" stop="20221112054000 +0200" channel="FX">
+    <title lang="ar">Fear the Walking Dead S3</title>
+    <title lang="ar">مسلسل-عادي
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112054000 +0200" stop="20221112071000 +0200" channel="FX">
+    <title lang="ar">S.M.A.R.T. Chase</title>
+    <title lang="ar">فيلم-عادي
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112071000 +0200" stop="20221112075500 +0200" channel="FX">
+    <title lang="ar">Killing Eve S1</title>
+    <title lang="ar">مسلسل-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112075500 +0200" stop="20221112090000 +0200" channel="FX">
+    <title lang="ar">Stitchers S3</title>
+    <title lang="ar">مسلسل-عادي
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112090000 +0200" stop="20221112100000 +0200" channel="FX">
+    <title lang="ar">Stitchers S3</title>
+    <title lang="ar">مسلسل-عادي
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112100000 +0200" stop="20221112104500 +0200" channel="FX">
+    <title lang="ar">Killing Eve S1</title>
+    <title lang="ar">مسلسل-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112104500 +0200" stop="20221112123000 +0200" channel="FX">
+    <title lang="ar">Little Joe</title>
+    <title lang="ar">فيلم-عادي
+               (2019)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112123000 +0200" stop="20221112132000 +0200" channel="FX">
+    <title lang="ar">Outcast S2</title>
+    <title lang="ar">مسلسل-عادي
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112132000 +0200" stop="20221112140500 +0200" channel="FX">
+    <title lang="ar">Killing Eve S1</title>
+    <title lang="ar">مسلسل-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112140500 +0200" stop="20221112145000 +0200" channel="FX">
+    <title lang="ar">Fear the Walking Dead S3</title>
+    <title lang="ar">مسلسل-عادي
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112145000 +0200" stop="20221112162000 +0200" channel="FX">
+    <title lang="ar">Witches in the Woods</title>
+    <title lang="ar">فيلم-عادي
+               (2019)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112013000 +0200" stop="20221112033000 +0200" channel="MBC MAX">
+    <title lang="ar">War</title>
+    <title lang="ar">فيلم-عادي
+               (2007)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112033000 +0200" stop="20221112053000 +0200" channel="MBC MAX">
+    <title lang="ar">Zookeeper</title>
+    <title lang="ar">فيلم-عادي
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112053000 +0200" stop="20221112070000 +0200" channel="MBC MAX">
+    <title lang="ar">Hansel &amp; Gretel: Witch Hunters</title>
+    <title lang="ar">فيلم-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112070000 +0200" stop="20221112093000 +0200" channel="MBC MAX">
+    <title lang="ar">Pulp Fiction</title>
+    <title lang="ar">فيلم-عادي
+               (1994)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112093000 +0200" stop="20221112113000 +0200" channel="MBC MAX">
+    <title lang="ar">Kill Bill: Vol. 1</title>
+    <title lang="ar">فيلم-عادي
+               (2003)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112113000 +0200" stop="20221112140000 +0200" channel="MBC MAX">
+    <title lang="ar">Kill Bill: Vol. 2</title>
+    <title lang="ar">فيلم-عادي
+               (2004)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112140000 +0200" stop="20221112160000 +0200" channel="MBC MAX">
+    <title lang="ar">16 Blocks</title>
+    <title lang="ar">فيلم-عادي
+               (2006)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112160000 +0200" stop="20221112180000 +0200" channel="MBC MAX">
+    <title lang="ar">Edison</title>
+    <title lang="ar">فيلم-عادي
+               (2005)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112180000 +0200" stop="20221112200000 +0200" channel="MBC MAX">
+    <title lang="ar">Warm Bodies</title>
+    <title lang="ar">فيلم-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112200000 +0200" stop="20221112220000 +0200" channel="MBC MAX">
+    <title lang="ar">فيلم</title>
+    <title lang="ar">08:00  مساءً
+              [120 دقيقة]</title>
+  </programme>
+  <programme start="20221112220000 +0200" stop="20221112233000 +0200" channel="MBC MAX">
+    <title lang="ar">فيلم</title>
+    <title lang="ar">10:00  مساءً
+              [90 دقيقة]</title>
+  </programme>
+  <programme start="20221112233000 +0200" stop="20221113013000 +0200" channel="MBC MAX">
+    <title lang="ar">فيلم</title>
+    <title lang="ar">11:30  مساءً
+              [120 دقيقة]</title>
+  </programme>
+  <programme start="20221113013000 +0200" stop="20221113033000 +0200" channel="MBC MAX">
+    <title lang="ar">Edison</title>
+    <title lang="ar">فيلم-عادي
+               (2005)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113033000 +0200" stop="20221113053000 +0200" channel="MBC MAX">
+    <title lang="ar">16 Blocks</title>
+    <title lang="ar">فيلم-عادي
+               (2006)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113053000 +0200" stop="20221113073000 +0200" channel="MBC MAX">
+    <title lang="ar">A Monster Calls</title>
+    <title lang="ar">فيلم-عادي
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113073000 +0200" stop="20221113080000 +0200" channel="MBC MAX">
+    <title lang="ar">برنامج</title>
+    <title lang="ar">07:30  صباحًا
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20221113080000 +0200" stop="20221113100000 +0200" channel="MBC MAX">
+    <title lang="ar">The Fighter</title>
+    <title lang="ar">فيلم-عادي
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113100000 +0200" stop="20221113113000 +0200" channel="MBC MAX">
+    <title lang="ar">Born to Fight</title>
+    <title lang="ar">فيلم-عادي
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113113000 +0200" stop="20221113120000 +0200" channel="MBC MAX">
+    <title lang="ar">برنامج</title>
+    <title lang="ar">11:30  صباحًا
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20221113120000 +0200" stop="20221113140000 +0200" channel="MBC MAX">
+    <title lang="ar">The Brawler</title>
+    <title lang="ar">فيلم-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113140000 +0200" stop="20221113163000 +0200" channel="MBC MAX">
+    <title lang="ar">Warrior</title>
+    <title lang="ar">فيلم-عادي
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113163000 +0200" stop="20221113183000 +0200" channel="MBC MAX">
+    <title lang="ar">I, Tonya</title>
+    <title lang="ar">فيلم-عادي
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112000000 +0200" stop="20221112020000 +0200" channel="ART Aflam 1">
+    <title lang="ar">الحب كده</title>
+    <title lang="ar">فيلم-عادي
+               (2007)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112020000 +0200" stop="20221112040000 +0200" channel="ART Aflam 1">
+    <title lang="ar">كفر الطماعين</title>
+    <title lang="ar">فيلم-عادي
+               (1989)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112040000 +0200" stop="20221112060000 +0200" channel="ART Aflam 1">
+    <title lang="ar">كامل الأوصاف</title>
+    <title lang="ar">فيلم-عادي
+               (2006)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112060000 +0200" stop="20221112083000 +0200" channel="ART Aflam 1">
+    <title lang="ar">11:11</title>
+    <title lang="ar">فيلم-عادي
+               (2022)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112083000 +0200" stop="20221112110000 +0200" channel="ART Aflam 1">
+    <title lang="ar">ضد الحكومة</title>
+    <title lang="ar">فيلم-عادي
+               (1992)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112110000 +0200" stop="20221112130000 +0200" channel="ART Aflam 1">
+    <title lang="ar">يا أنا يا خالتي</title>
+    <title lang="ar">فيلم-عادي
+               (2005)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112130000 +0200" stop="20221112150000 +0200" channel="ART Aflam 1">
+    <title lang="ar">النعامة والطاووس</title>
+    <title lang="ar">فيلم-عادي
+               (2002)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112150000 +0200" stop="20221112173000 +0200" channel="ART Aflam 1">
+    <title lang="ar">تحت الترابيزة</title>
+    <title lang="ar">فيلم-عادي
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112173000 +0200" stop="20221112200000 +0200" channel="ART Aflam 1">
+    <title lang="ar">قلب الأسد</title>
+    <title lang="ar">فيلم-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112200000 +0200" stop="20221112220000 +0200" channel="ART Aflam 1">
+    <title lang="ar">سمكة و٤ قروش</title>
+    <title lang="ar">فيلم-عادي
+               (1997)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112220000 +0200" stop="20221113000000 +0200" channel="ART Aflam 1">
+    <title lang="ar">اثنين على الرصيف</title>
+    <title lang="ar">فيلم-عادي
+               (2007)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113000000 +0200" stop="20221113023000 +0200" channel="ART Aflam 1">
+    <title lang="ar">همام في أمستردام</title>
+    <title lang="ar">فيلم-عادي
+               (1999)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113023000 +0200" stop="20221113043000 +0200" channel="ART Aflam 1">
+    <title lang="ar">السيد الخادم</title>
+    <title lang="ar">مسلسل-ﺳﻬﺮﺓ ﺗﻠﻴﻔﺰﻳﻮﻧﻴﺔ</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113043000 +0200" stop="20221113070000 +0200" channel="ART Aflam 1">
+    <title lang="ar">كده رضا</title>
+    <title lang="ar">فيلم-عادي
+               (2007)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113070000 +0200" stop="20221113090000 +0200" channel="ART Aflam 1">
+    <title lang="ar">النعامة والطاووس</title>
+    <title lang="ar">فيلم-عادي
+               (2002)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113090000 +0200" stop="20221113110000 +0200" channel="ART Aflam 1">
+    <title lang="ar">طيور الظلام</title>
+    <title lang="ar">فيلم-عادي
+               (1995)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113110000 +0200" stop="20221113130000 +0200" channel="ART Aflam 1">
+    <title lang="ar">شكة دبوس</title>
+    <title lang="ar">فيلم-عادي
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113130000 +0200" stop="20221113150000 +0200" channel="ART Aflam 1">
+    <title lang="ar">ثمن دستة اشرار</title>
+    <title lang="ar">فيلم-عادي
+               (2006)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113150000 +0200" stop="20221113170000 +0200" channel="ART Aflam 1">
+    <title lang="ar">عسل أبيض</title>
+    <title lang="ar">فيلم-عادي
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113170000 +0200" stop="20221113193000 +0200" channel="ART Aflam 1">
+    <title lang="ar">11:11</title>
+    <title lang="ar">فيلم-عادي
+               (2022)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113193000 +0200" stop="20221113220000 +0200" channel="ART Aflam 1">
+    <title lang="ar">النمس</title>
+    <title lang="ar">فيلم-عادي
+               (2000)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113220000 +0200" stop="20221114000000 +0200" channel="ART Aflam 1">
+    <title lang="ar">فتيات للقتل</title>
+    <title lang="ar">فيلم-عادي
+               (1998)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114000000 +0200" stop="20221114023000 +0200" channel="ART Aflam 1">
+    <title lang="ar">تحت الترابيزة</title>
+    <title lang="ar">فيلم-عادي
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114023000 +0200" stop="20221114050000 +0200" channel="ART Aflam 1">
+    <title lang="ar">شاويش نص الليل</title>
+    <title lang="ar">فيلم-عادي
+               (1991)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114050000 +0200" stop="20221114070000 +0200" channel="ART Aflam 1">
+    <title lang="ar">يا أنا يا خالتي</title>
+    <title lang="ar">فيلم-عادي
+               (2005)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114070000 +0200" stop="20221114090000 +0200" channel="ART Aflam 1">
+    <title lang="ar">ثمن دستة اشرار</title>
+    <title lang="ar">فيلم-عادي
+               (2006)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114090000 +0200" stop="20221114110000 +0200" channel="ART Aflam 1">
+    <title lang="ar">سمكة و٤ قروش</title>
+    <title lang="ar">فيلم-عادي
+               (1997)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114110000 +0200" stop="20221114130000 +0200" channel="ART Aflam 1">
+    <title lang="ar">بلطية العايمة</title>
+    <title lang="ar">فيلم-عادي
+               (2008)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112234500 +0200" stop="20221113020000 +0200" channel="Star Movies">
+    <title lang="ar">The Way Back</title>
+    <title lang="ar">فيلم-عادي
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113020000 +0200" stop="20221113041500 +0200" channel="Star Movies">
+    <title lang="ar">The Way Back</title>
+    <title lang="ar">فيلم-عادي
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113041500 +0200" stop="20221113061000 +0200" channel="Star Movies">
+    <title lang="ar">Resurrecting the Champ</title>
+    <title lang="ar">فيلم-عادي
+               (2007)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113061000 +0200" stop="20221113084500 +0200" channel="Star Movies">
+    <title lang="ar">Made in Dagenham</title>
+    <title lang="ar">فيلم-عادي
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113084500 +0200" stop="20221113101500 +0200" channel="Star Movies">
+    <title lang="ar">Gulliver's Travels</title>
+    <title lang="ar">فيلم-عادي
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113101500 +0200" stop="20221113120000 +0200" channel="Star Movies">
+    <title lang="ar">Made in Italy</title>
+    <title lang="ar">فيلم-عادي
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113120000 +0200" stop="20221113132000 +0200" channel="Star Movies">
+    <title lang="ar">Vicky Cristina Barcelona</title>
+    <title lang="ar">فيلم-عادي
+               (2008)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113132000 +0200" stop="20221113150500 +0200" channel="Star Movies">
+    <title lang="ar">The Vanishing</title>
+    <title lang="ar">فيلم-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113150500 +0200" stop="20221113170000 +0200" channel="Star Movies">
+    <title lang="ar">The Devil Wears Prada</title>
+    <title lang="ar">فيلم-عادي
+               (2006)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113170000 +0200" stop="20221113184000 +0200" channel="Star Movies">
+    <title lang="ar">The Farewell</title>
+    <title lang="ar">فيلم-عادي
+               (2019)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113184000 +0200" stop="20221113203000 +0200" channel="Star Movies">
+    <title lang="ar">The Cave</title>
+    <title lang="ar">فيلم-وثائقي/تسجيلي
+               (2019)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113203000 +0200" stop="20221113223000 +0200" channel="Star Movies">
+    <title lang="ar">Emperor</title>
+    <title lang="ar">فيلم-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113223000 +0200" stop="20221113234500 +0200" channel="Star Movies">
+    <title lang="ar">Don Jon</title>
+    <title lang="ar">فيلم-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113234500 +0200" stop="20221114015500 +0200" channel="Star Movies">
+    <title lang="ar">Made in Dagenham</title>
+    <title lang="ar">فيلم-عادي
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114015500 +0200" stop="20221114033000 +0200" channel="Star Movies">
+    <title lang="ar">Puncture</title>
+    <title lang="ar">01:55  صباحًا
+              [95 دقيقة]</title>
+  </programme>
+  <programme start="20221114033000 +0200" stop="20221114051500 +0200" channel="Star Movies">
+    <title lang="ar">The Wrestler</title>
+    <title lang="ar">فيلم-عادي
+               (2008)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114051500 +0200" stop="20221114071500 +0200" channel="Star Movies">
+    <title lang="ar">Adaptation.</title>
+    <title lang="ar">فيلم-عادي
+               (2002)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114071500 +0200" stop="20221114090000 +0200" channel="Star Movies">
+    <title lang="ar">Vicky Cristina Barcelona</title>
+    <title lang="ar">فيلم-عادي
+               (2008)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114090000 +0200" stop="20221114101500 +0200" channel="Star Movies">
+    <title lang="ar">Don Jon</title>
+    <title lang="ar">فيلم-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114101500 +0200" stop="20221114120000 +0200" channel="Star Movies">
+    <title lang="ar">The Farewell</title>
+    <title lang="ar">فيلم-عادي
+               (2019)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114120000 +0200" stop="20221114134500 +0200" channel="Star Movies">
+    <title lang="ar">Hope Gap</title>
+    <title lang="ar">فيلم-عادي
+               (2019)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114134500 +0200" stop="20221114154000 +0200" channel="Star Movies">
+    <title lang="ar">Life of Pi</title>
+    <title lang="ar">فيلم-عادي
+               (2012)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114154000 +0200" stop="20221114173000 +0200" channel="Star Movies">
+    <title lang="ar">The Trip to Greece</title>
+    <title lang="ar">فيلم-عادي
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114173000 +0200" stop="20221114191500 +0200" channel="Star Movies">
+    <title lang="ar">The Ides of March</title>
+    <title lang="ar">فيلم-عادي
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114191500 +0200" stop="20221114211500 +0200" channel="Star Movies">
+    <title lang="ar">Resurrecting the Champ</title>
+    <title lang="ar">فيلم-عادي
+               (2007)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114211500 +0200" stop="20221114230000 +0200" channel="Star Movies">
+    <title lang="ar">The Magic of Belle Isle</title>
+    <title lang="ar">فيلم-عادي
+               (2012)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114230000 +0200" stop="20221115004500 +0200" channel="Star Movies">
+    <title lang="ar">The Cave</title>
+    <title lang="ar">فيلم-وثائقي/تسجيلي
+               (2019)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221115004500 +0200" stop="20221115024500 +0200" channel="Star Movies">
+    <title lang="ar">Adaptation.</title>
+    <title lang="ar">فيلم-عادي
+               (2002)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221115024500 +0200" stop="20221115044500 +0200" channel="Star Movies">
+    <title lang="ar">Made in Dagenham</title>
+    <title lang="ar">فيلم-عادي
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221115044500 +0200" stop="20221115063000 +0200" channel="Star Movies">
+    <title lang="ar">A Walk to Remember</title>
+    <title lang="ar">فيلم-عادي
+               (2002)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221115063000 +0200" stop="20221115081500 +0200" channel="Star Movies">
+    <title lang="ar">The Lookout</title>
+    <title lang="ar">فيلم-عادي
+               (2007)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221115081500 +0200" stop="20221115101500 +0200" channel="Star Movies">
+    <title lang="ar">The Cave</title>
+    <title lang="ar">فيلم-وثائقي/تسجيلي
+               (2019)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221115101500 +0200" stop="20221115120000 +0200" channel="Star Movies">
+    <title lang="ar">The Ides of March</title>
+    <title lang="ar">فيلم-عادي
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112013000 +0200" stop="20221112031000 +0200" channel="OSN Premier">
+    <title lang="ar">Mighty Oak</title>
+    <title lang="ar">فيلم-عادي
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112031000 +0200" stop="20221112051500 +0200" channel="OSN Premier">
+    <title lang="ar">A Hero</title>
+    <title lang="ar">فيلم-عادي
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112051500 +0200" stop="20221112065000 +0200" channel="OSN Premier">
+    <title lang="ar">The War with Grandpa</title>
+    <title lang="ar">فيلم-عادي
+               (2019)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112065000 +0200" stop="20221112094000 +0200" channel="OSN Premier">
+    <title lang="ar">إخوة ليلى</title>
+    <title lang="ar">فيلم-عادي
+               (2022)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112094000 +0200" stop="20221112112500 +0200" channel="OSN Premier">
+    <title lang="ar">Paper Spiders</title>
+    <title lang="ar">فيلم-عادي
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112112500 +0200" stop="20221112130000 +0200" channel="OSN Premier">
+    <title lang="ar">Belfast</title>
+    <title lang="ar">فيلم-عادي
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112130000 +0200" stop="20221112145000 +0200" channel="OSN Premier">
+    <title lang="ar">Marry Me</title>
+    <title lang="ar">فيلم-عادي
+               (2022)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112145000 +0200" stop="20221112163000 +0200" channel="OSN Premier">
+    <title lang="ar">Paris, 13th District</title>
+    <title lang="ar">فيلم-عادي
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112163000 +0200" stop="20221112175500 +0200" channel="OSN Premier">
+    <title lang="ar">Cheerleader Abduction</title>
+    <title lang="ar">فيلم-عادي
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112175500 +0200" stop="20221112190000 +0200" channel="OSN Premier">
+    <title lang="ar">Crawlspace</title>
+    <title lang="ar">فيلم-عادي
+               (2022)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112190000 +0200" stop="20221112203500 +0200" channel="OSN Premier">
+    <title lang="ar">Belfast</title>
+    <title lang="ar">فيلم-عادي
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112203500 +0200" stop="20221112222000 +0200" channel="OSN Premier">
+    <title lang="ar">Paper Spiders</title>
+    <title lang="ar">فيلم-عادي
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112222000 +0200" stop="20221113001000 +0200" channel="OSN Premier">
+    <title lang="ar">Marry Me</title>
+    <title lang="ar">فيلم-عادي
+               (2022)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113001000 +0200" stop="20221113024000 +0200" channel="OSN Premier">
+    <title lang="ar">Ana</title>
+    <title lang="ar">فيلم-عادي
+               (2019)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113024000 +0200" stop="20221113041500 +0200" channel="OSN Premier">
+    <title lang="ar">Belfast</title>
+    <title lang="ar">فيلم-عادي
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113041500 +0200" stop="20221113060000 +0200" channel="OSN Premier">
+    <title lang="ar">The Ice Road</title>
+    <title lang="ar">فيلم-عادي
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113060000 +0200" stop="20221113075500 +0200" channel="OSN Premier">
+    <title lang="ar">Finding You</title>
+    <title lang="ar">فيلم-عادي
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113075500 +0200" stop="20221113094500 +0200" channel="OSN Premier">
+    <title lang="ar">Marry Me</title>
+    <title lang="ar">فيلم-عادي
+               (2022)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113094500 +0200" stop="20221113113000 +0200" channel="OSN Premier">
+    <title lang="ar">Ana</title>
+    <title lang="ar">فيلم-عادي
+               (2019)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113113000 +0200" stop="20221113135000 +0200" channel="OSN Premier">
+    <title lang="ar">Just 6.5</title>
+    <title lang="ar">فيلم-عادي
+               (2019)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113135000 +0200" stop="20221113152000 +0200" channel="OSN Premier">
+    <title lang="ar">The Warden</title>
+    <title lang="ar">فيلم-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113152000 +0200" stop="20221113165500 +0200" channel="OSN Premier">
+    <title lang="ar">Body Cam</title>
+    <title lang="ar">فيلم-عادي
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113165500 +0200" stop="20221113190000 +0200" channel="OSN Premier">
+    <title lang="ar">Finding You</title>
+    <title lang="ar">فيلم-عادي
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113190000 +0200" stop="20221113210000 +0200" channel="OSN Premier">
+    <title lang="ar">The Worst Person in the World</title>
+    <title lang="ar">فيلم-عادي
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113210000 +0200" stop="20221113232000 +0200" channel="OSN Premier">
+    <title lang="ar">Just 6.5</title>
+    <title lang="ar">فيلم-عادي
+               (2019)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113232000 +0200" stop="20221114005000 +0200" channel="OSN Premier">
+    <title lang="ar">The Warden</title>
+    <title lang="ar">فيلم-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114005000 +0200" stop="20221114023000 +0200" channel="OSN Premier">
+    <title lang="ar">The Ice Road</title>
+    <title lang="ar">فيلم-عادي
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114023000 +0200" stop="20221114033000 +0200" channel="OSN Premier">
+    <title lang="ar">Finding You</title>
+    <title lang="ar">فيلم-عادي
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114033000 +0200" stop="20221114050000 +0200" channel="OSN Premier">
+    <title lang="ar">Secrets in the Basement</title>
+    <title lang="ar">فيلم-عادي
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114050000 +0200" stop="20221114072000 +0200" channel="OSN Premier">
+    <title lang="ar">Just 6.5</title>
+    <title lang="ar">فيلم-عادي
+               (2019)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114072000 +0200" stop="20221114110500 +0200" channel="OSN Premier">
+    <title lang="ar">Respect</title>
+    <title lang="ar">فيلم-عادي
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114110500 +0200" stop="20221114130000 +0200" channel="OSN Premier">
+    <title lang="ar">The Good Boss</title>
+    <title lang="ar">فيلم-عادي
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112003000 +0200" stop="20221112023000 +0200" channel="ART Aflam 2">
+    <title lang="ar">لعنة الزمن</title>
+    <title lang="ar">فيلم-عادي
+               (1979)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112023000 +0200" stop="20221112050000 +0200" channel="ART Aflam 2">
+    <title lang="ar">أمريكاني من طنطا</title>
+    <title lang="ar">فيلم-عادي
+               (1954)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112050000 +0200" stop="20221112070000 +0200" channel="ART Aflam 2">
+    <title lang="ar">وضاع حبي هناك</title>
+    <title lang="ar">فيلم-عادي
+               (1982)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112070000 +0200" stop="20221112090000 +0200" channel="ART Aflam 2">
+    <title lang="ar">المبروك</title>
+    <title lang="ar">فيلم-عادي
+               (1959)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112090000 +0200" stop="20221112110000 +0200" channel="ART Aflam 2">
+    <title lang="ar">الشاويش حسن</title>
+    <title lang="ar">فيلم-عادي
+               (1988)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112110000 +0200" stop="20221112130000 +0200" channel="ART Aflam 2">
+    <title lang="ar">ربيع الحب</title>
+    <title lang="ar">فيلم-عادي
+               (1956)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112130000 +0200" stop="20221112150000 +0200" channel="ART Aflam 2">
+    <title lang="ar">الكيف</title>
+    <title lang="ar">فيلم-عادي
+               (1985)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112150000 +0200" stop="20221112173000 +0200" channel="ART Aflam 2">
+    <title lang="ar">ثورة المدينة</title>
+    <title lang="ar">فيلم-عادي
+               (1955)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112173000 +0200" stop="20221112193000 +0200" channel="ART Aflam 2">
+    <title lang="ar">التقرير</title>
+    <title lang="ar">فيلم-عادي
+               (1986)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112193000 +0200" stop="20221112220000 +0200" channel="ART Aflam 2">
+    <title lang="ar">تجيبها كده تجيلها كده هي كده</title>
+    <title lang="ar">فيلم-عادي
+               (1982)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112220000 +0200" stop="20221113000000 +0200" channel="ART Aflam 2">
+    <title lang="ar">قمر ١٤</title>
+    <title lang="ar">فيلم-عادي
+               (1950)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113000000 +0200" stop="20221113023000 +0200" channel="ART Aflam 2">
+    <title lang="ar">إمبراطورية غوار</title>
+    <title lang="ar">فيلم-عادي
+               (1982)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113023000 +0200" stop="20221113043000 +0200" channel="ART Aflam 2">
+    <title lang="ar">حكاية غرام</title>
+    <title lang="ar">فيلم-عادي
+               (1962)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113043000 +0200" stop="20221113063000 +0200" channel="ART Aflam 2">
+    <title lang="ar">رغبات ممنوعة</title>
+    <title lang="ar">فيلم-عادي
+               (1972)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113063000 +0200" stop="20221113083000 +0200" channel="ART Aflam 2">
+    <title lang="ar">بنات اليوم</title>
+    <title lang="ar">فيلم-عادي
+               (1956)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113083000 +0200" stop="20221113110000 +0200" channel="ART Aflam 2">
+    <title lang="ar">بيت الكوامل</title>
+    <title lang="ar">فيلم-عادي
+               (1986)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113110000 +0200" stop="20221113130000 +0200" channel="ART Aflam 2">
+    <title lang="ar">ست الحسن</title>
+    <title lang="ar">فيلم-عادي
+               (1950)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113130000 +0200" stop="20221113153000 +0200" channel="ART Aflam 2">
+    <title lang="ar">العذراء والشعر الأبيض</title>
+    <title lang="ar">فيلم-عادي
+               (1983)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113153000 +0200" stop="20221113173000 +0200" channel="ART Aflam 2">
+    <title lang="ar">لو كنت غني</title>
+    <title lang="ar">فيلم-عادي
+               (1942)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113173000 +0200" stop="20221113193000 +0200" channel="ART Aflam 2">
+    <title lang="ar">رجل بمعنى الكلمة</title>
+    <title lang="ar">فيلم-عادي
+               (1978)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113193000 +0200" stop="20221113220000 +0200" channel="ART Aflam 2">
+    <title lang="ar">الشاويش حسن</title>
+    <title lang="ar">فيلم-عادي
+               (1988)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113220000 +0200" stop="20221114000000 +0200" channel="ART Aflam 2">
+    <title lang="ar">ربيع الحب</title>
+    <title lang="ar">فيلم-عادي
+               (1956)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114000000 +0200" stop="20221114020000 +0200" channel="ART Aflam 2">
+    <title lang="ar">بكره احلى من النهارده</title>
+    <title lang="ar">فيلم-عادي
+               (1986)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114020000 +0200" stop="20221114040000 +0200" channel="ART Aflam 2">
+    <title lang="ar">الحب والصمت</title>
+    <title lang="ar">فيلم-عادي
+               (1973)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114040000 +0200" stop="20221114063000 +0200" channel="ART Aflam 2">
+    <title lang="ar">الكيف</title>
+    <title lang="ar">فيلم-عادي
+               (1985)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114063000 +0200" stop="20221114083000 +0200" channel="ART Aflam 2">
+    <title lang="ar">ثورة المدينة</title>
+    <title lang="ar">فيلم-عادي
+               (1955)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114083000 +0200" stop="20221114110000 +0200" channel="ART Aflam 2">
+    <title lang="ar">محطة الأنس</title>
+    <title lang="ar">فيلم-عادي
+               (1985)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114110000 +0200" stop="20221114130000 +0200" channel="ART Aflam 2">
+    <title lang="ar">أنا وقلبي</title>
+    <title lang="ar">فيلم-عادي
+               (1957)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112010500 +0200" stop="20221112023000 +0200" channel="OSN Movies">
+    <title lang="ar">Anything for Love</title>
+    <title lang="ar">فيلم-عادي
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112023000 +0200" stop="20221112045500 +0200" channel="OSN Movies">
+    <title lang="ar">All Yours</title>
+    <title lang="ar">فيلم-عادي
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112045500 +0200" stop="20221112064000 +0200" channel="OSN Movies">
+    <title lang="ar">Playing for Keeps</title>
+    <title lang="ar">فيلم-عادي
+               (2012)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112064000 +0200" stop="20221112092500 +0200" channel="OSN Movies">
+    <title lang="ar">The Horse Whisperer</title>
+    <title lang="ar">فيلم-عادي
+               (1998)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112092500 +0200" stop="20221112112000 +0200" channel="OSN Movies">
+    <title lang="ar">Raising Helen</title>
+    <title lang="ar">فيلم-عادي
+               (2004)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112112000 +0200" stop="20221112130000 +0200" channel="OSN Movies">
+    <title lang="ar">The Hurricane</title>
+    <title lang="ar">فيلم-عادي
+               (1999)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112130000 +0200" stop="20221112161000 +0200" channel="OSN Movies">
+    <title lang="ar">Malcolm X</title>
+    <title lang="ar">فيلم-عادي
+               (1992)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112161000 +0200" stop="20221112180000 +0200" channel="OSN Movies">
+    <title lang="ar">American Gangster</title>
+    <title lang="ar">فيلم-عادي
+               (2007)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112180000 +0200" stop="20221112190000 +0200" channel="OSN Movies">
+    <title lang="ar">Mother!</title>
+    <title lang="ar">فيلم-عادي
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112190000 +0200" stop="20221112204000 +0200" channel="OSN Movies">
+    <title lang="ar">The Iceman</title>
+    <title lang="ar">فيلم-عادي
+               (2012)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112204000 +0200" stop="20221112235000 +0200" channel="OSN Movies">
+    <title lang="ar">Malcolm X</title>
+    <title lang="ar">فيلم-عادي
+               (1992)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112235000 +0200" stop="20221113031000 +0200" channel="OSN Movies">
+    <title lang="ar">The Hurricane</title>
+    <title lang="ar">فيلم-عادي
+               (1999)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113031000 +0200" stop="20221113055500 +0200" channel="OSN Movies">
+    <title lang="ar">The Horse Whisperer</title>
+    <title lang="ar">فيلم-عادي
+               (1998)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113055500 +0200" stop="20221113075000 +0200" channel="OSN Movies">
+    <title lang="ar">Raising Helen</title>
+    <title lang="ar">فيلم-عادي
+               (2004)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113075000 +0200" stop="20221113093000 +0200" channel="OSN Movies">
+    <title lang="ar">The Children Act</title>
+    <title lang="ar">فيلم-عادي
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113093000 +0200" stop="20221113111000 +0200" channel="OSN Movies">
+    <title lang="ar">The Good Lie</title>
+    <title lang="ar">فيلم-عادي
+               (2014)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113111000 +0200" stop="20221113121000 +0200" channel="OSN Movies">
+    <title lang="ar">Life of Crime</title>
+    <title lang="ar">فيلم-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113121000 +0200" stop="20221113135000 +0200" channel="OSN Movies">
+    <title lang="ar">House at the End of the Street</title>
+    <title lang="ar">فيلم-عادي
+               (2012)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113135000 +0200" stop="20221113155000 +0200" channel="OSN Movies">
+    <title lang="ar">Freedom Writers</title>
+    <title lang="ar">فيلم-عادي
+               (2007)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113155000 +0200" stop="20221113174500 +0200" channel="OSN Movies">
+    <title lang="ar">Baywatch</title>
+    <title lang="ar">فيلم-عادي
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113174500 +0200" stop="20221113190000 +0200" channel="OSN Movies">
+    <title lang="ar">Office Christmas Party</title>
+    <title lang="ar">فيلم-عادي
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113190000 +0200" stop="20221113204000 +0200" channel="OSN Movies">
+    <title lang="ar">Top Five</title>
+    <title lang="ar">فيلم-عادي
+               (2014)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113204000 +0200" stop="20221113224000 +0200" channel="OSN Movies">
+    <title lang="ar">Freedom Writers</title>
+    <title lang="ar">فيلم-عادي
+               (2007)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113224000 +0200" stop="20221114014500 +0200" channel="OSN Movies">
+    <title lang="ar">Life of Crime</title>
+    <title lang="ar">فيلم-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114014500 +0200" stop="20221114042500 +0200" channel="OSN Movies">
+    <title lang="ar">The Good Lie</title>
+    <title lang="ar">فيلم-عادي
+               (2014)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114042500 +0200" stop="20221114070500 +0200" channel="OSN Movies">
+    <title lang="ar">House at the End of the Street</title>
+    <title lang="ar">فيلم-عادي
+               (2012)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114070500 +0200" stop="20221114094500 +0200" channel="OSN Movies">
+    <title lang="ar">There Will Be Blood</title>
+    <title lang="ar">فيلم-عادي
+               (2007)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114094500 +0200" stop="20221114112500 +0200" channel="OSN Movies">
+    <title lang="ar">The Impossible</title>
+    <title lang="ar">فيلم-عادي
+               (2012)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114112500 +0200" stop="20221114134000 +0200" channel="OSN Movies">
+    <title lang="ar">The Martian</title>
+    <title lang="ar">فيلم-عادي
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112010000 +0200" stop="20221112020000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">فض اشتباك</title>
+    <title lang="ar">مسلسل-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112020000 +0200" stop="20221112030000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">وادي الملوك</title>
+    <title lang="ar">مسلسل-عادي
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112030000 +0200" stop="20221112040000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">ريّح المدام</title>
+    <title lang="ar">مسلسل-عادي
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112040000 +0200" stop="20221112050000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">المطلقات</title>
+    <title lang="ar">مسلسل-عادي
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112050000 +0200" stop="20221112060000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">سمرا</title>
+    <title lang="ar">مسلسل-عادي
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112060000 +0200" stop="20221112070000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">بيت الشدة</title>
+    <title lang="ar">مسلسل-عادي
+               (2022)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112070000 +0200" stop="20221112080000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">بيت السلايف</title>
+    <title lang="ar">مسلسل-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112080000 +0200" stop="20221112090000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">ضمير أبلة حكمت</title>
+    <title lang="ar">مسلسل-عادي
+               (1991)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112090000 +0200" stop="20221112100000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">وادي الملوك</title>
+    <title lang="ar">مسلسل-عادي
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112100000 +0200" stop="20221112110000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">فض اشتباك</title>
+    <title lang="ar">مسلسل-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112110000 +0200" stop="20221112120000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">المطلقات</title>
+    <title lang="ar">مسلسل-عادي
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112120000 +0200" stop="20221112130000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">ريّح المدام</title>
+    <title lang="ar">مسلسل-عادي
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112130000 +0200" stop="20221112140000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">سمرا</title>
+    <title lang="ar">مسلسل-عادي
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112140000 +0200" stop="20221112150000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">ضمير أبلة حكمت</title>
+    <title lang="ar">مسلسل-عادي
+               (1991)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112150000 +0200" stop="20221112160000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">بيت السلايف</title>
+    <title lang="ar">مسلسل-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112160000 +0200" stop="20221112170000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">بيت الشدة</title>
+    <title lang="ar">مسلسل-عادي
+               (2022)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112170000 +0200" stop="20221112180000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">سمرا</title>
+    <title lang="ar">مسلسل-عادي
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112180000 +0200" stop="20221112190000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">ضمير أبلة حكمت</title>
+    <title lang="ar">مسلسل-عادي
+               (1991)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112190000 +0200" stop="20221112200000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">ريّح المدام</title>
+    <title lang="ar">مسلسل-عادي
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112200000 +0200" stop="20221112210000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">المطلقات</title>
+    <title lang="ar">مسلسل-عادي
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112210000 +0200" stop="20221112220000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">فض اشتباك</title>
+    <title lang="ar">مسلسل-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112220000 +0200" stop="20221112230000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">وادي الملوك</title>
+    <title lang="ar">مسلسل-عادي
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112230000 +0200" stop="20221113000000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">بيت الشدة</title>
+    <title lang="ar">مسلسل-عادي
+               (2022)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113000000 +0200" stop="20221113010000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">بيت السلايف</title>
+    <title lang="ar">مسلسل-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113010000 +0200" stop="20221113020000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">فض اشتباك</title>
+    <title lang="ar">مسلسل-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113020000 +0200" stop="20221113030000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">وادي الملوك</title>
+    <title lang="ar">مسلسل-عادي
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113030000 +0200" stop="20221113040000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">ريّح المدام</title>
+    <title lang="ar">مسلسل-عادي
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113040000 +0200" stop="20221113050000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">المطلقات</title>
+    <title lang="ar">مسلسل-عادي
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113050000 +0200" stop="20221113060000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">سمرا</title>
+    <title lang="ar">مسلسل-عادي
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113060000 +0200" stop="20221113070000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">بيت الشدة</title>
+    <title lang="ar">مسلسل-عادي
+               (2022)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113070000 +0200" stop="20221113080000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">بيت السلايف</title>
+    <title lang="ar">مسلسل-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113080000 +0200" stop="20221113090000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">ضمير أبلة حكمت</title>
+    <title lang="ar">مسلسل-عادي
+               (1991)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113090000 +0200" stop="20221113100000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">وادي الملوك</title>
+    <title lang="ar">مسلسل-عادي
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113100000 +0200" stop="20221113110000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">فض اشتباك</title>
+    <title lang="ar">مسلسل-عادي
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113110000 +0200" stop="20221113120000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">المطلقات</title>
+    <title lang="ar">مسلسل-عادي
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113120000 +0200" stop="20221113130000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">ريّح المدام</title>
+    <title lang="ar">مسلسل-عادي
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113130000 +0200" stop="20221113140000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">سمرا</title>
+    <title lang="ar">مسلسل-عادي
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113140000 +0200" stop="20221113150000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">ضمير أبلة حكمت</title>
+    <title lang="ar">مسلسل-عادي
+               (1991)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113150000 +0200" stop="20221113160000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">بيت السلايف</title>
+    <title lang="ar">مسلسل-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113160000 +0200" stop="20221113170000 +0200" channel="Al Nahar Drama">
+    <title lang="ar">بيت الشدة</title>
+    <title lang="ar">مسلسل-عادي
+               (2022)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112010000 +0200" stop="20221112020000 +0200" channel="Al Nahar TV">
+    <title lang="ar">برنامج</title>
+    <title lang="ar">01:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20221112020000 +0200" stop="20221112040000 +0200" channel="Al Nahar TV">
+    <title lang="ar">برنامج</title>
+    <title lang="ar">02:00  صباحًا
+              [120 دقيقة]</title>
+  </programme>
+  <programme start="20221112040000 +0200" stop="20221112050000 +0200" channel="Al Nahar TV">
+    <title lang="ar">برنامج هيلثي لايف</title>
+    <title lang="ar">04:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20221112050000 +0200" stop="20221112060000 +0200" channel="Al Nahar TV">
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ مطبخ هالة</title>
+    <title lang="ar">05:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20221112060000 +0200" stop="20221112063000 +0200" channel="Al Nahar TV">
+    <title lang="ar">برنامج أما بعد</title>
+    <title lang="ar">06:00  صباحًا
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20221112063000 +0200" stop="20221112070000 +0200" channel="Al Nahar TV">
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ أكلة بيتي</title>
+    <title lang="ar">06:30  صباحًا
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20221112070000 +0200" stop="20221112080000 +0200" channel="Al Nahar TV">
+    <title lang="ar">برنامج</title>
+    <title lang="ar">07:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20221112080000 +0200" stop="20221112100000 +0200" channel="Al Nahar TV">
+    <title lang="ar">برنامج الستات</title>
+    <title lang="ar">08:00  صباحًا
+              [120 دقيقة]</title>
+  </programme>
+  <programme start="20221112100000 +0200" stop="20221112110000 +0200" channel="Al Nahar TV">
+    <title lang="ar">برنامج طاقة نور</title>
+    <title lang="ar">10:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20221112110000 +0200" stop="20221112120000 +0200" channel="Al Nahar TV">
+    <title lang="ar">ضمير أبلة حكمت</title>
+    <title lang="ar">مسلسل-عادي
+               (1991)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112120000 +0200" stop="20221112130000 +0200" channel="Al Nahar TV">
+    <title lang="ar">بيت الشدة</title>
+    <title lang="ar">مسلسل-عادي
+               (2022)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112130000 +0200" stop="20221112150000 +0200" channel="Al Nahar TV">
+    <title lang="ar">آخر النهار</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ-عادي
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112150000 +0200" stop="20221112160000 +0200" channel="Al Nahar TV">
+    <title lang="ar">الطاووس</title>
+    <title lang="ar">مسلسل-عادي
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112160000 +0200" stop="20221112170000 +0200" channel="Al Nahar TV">
+    <title lang="ar">الفرنجة</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ-عادي
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112170000 +0200" stop="20221112180000 +0200" channel="Al Nahar TV">
+    <title lang="ar">ضمير أبلة حكمت</title>
+    <title lang="ar">مسلسل-عادي
+               (1991)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112180000 +0200" stop="20221112190000 +0200" channel="Al Nahar TV">
+    <title lang="ar">بيت الشدة</title>
+    <title lang="ar">مسلسل-عادي
+               (2022)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112190000 +0200" stop="20221112200000 +0200" channel="Al Nahar TV">
+    <title lang="ar">اسأل مع دعاء</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221112200000 +0200" stop="20221112213000 +0200" channel="Al Nahar TV">
+    <title lang="ar">برنامج</title>
+    <title lang="ar">08:00  مساءً
+              [90 دقيقة]</title>
+  </programme>
+  <programme start="20221112213000 +0200" stop="20221112223000 +0200" channel="Al Nahar TV">
+    <title lang="ar">برنامج</title>
+    <title lang="ar">09:30  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20221112223000 +0200" stop="20221112230000 +0200" channel="Al Nahar TV">
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ أكلة بيتي</title>
+    <title lang="ar">10:30  مساءً
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20221112230000 +0200" stop="20221113000000 +0200" channel="Al Nahar TV">
+    <title lang="ar">برنامج</title>
+    <title lang="ar">11:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20221113000000 +0200" stop="20221113010000 +0200" channel="Al Nahar TV">
+    <title lang="ar">الطاووس</title>
+    <title lang="ar">مسلسل-عادي
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113010000 +0200" stop="20221113020000 +0200" channel="Al Nahar TV">
+    <title lang="ar">برنامج طاقة نور</title>
+    <title lang="ar">01:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20221113020000 +0200" stop="20221113040000 +0200" channel="Al Nahar TV">
+    <title lang="ar">برنامج الستات</title>
+    <title lang="ar">02:00  صباحًا
+              [120 دقيقة]</title>
+  </programme>
+  <programme start="20221113070000 +0200" stop="20221113080000 +0200" channel="Al Nahar TV">
+    <title lang="ar">اسأل مع دعاء</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113110000 +0200" stop="20221113120000 +0200" channel="Al Nahar TV">
+    <title lang="ar">ضمير أبلة حكمت</title>
+    <title lang="ar">مسلسل-عادي
+               (1991)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113120000 +0200" stop="20221113130000 +0200" channel="Al Nahar TV">
+    <title lang="ar">بيت الشدة</title>
+    <title lang="ar">مسلسل-عادي
+               (2022)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113130000 +0200" stop="20221113150000 +0200" channel="Al Nahar TV">
+    <title lang="ar">آخر النهار</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ-عادي
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113150000 +0200" stop="20221113160000 +0200" channel="Al Nahar TV">
+    <title lang="ar">الطاووس</title>
+    <title lang="ar">مسلسل-عادي
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113160000 +0200" stop="20221113170000 +0200" channel="Al Nahar TV">
+    <title lang="ar">الفرنجة</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ-عادي
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113170000 +0200" stop="20221113180000 +0200" channel="Al Nahar TV">
+    <title lang="ar">ضمير أبلة حكمت</title>
+    <title lang="ar">مسلسل-عادي
+               (1991)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113180000 +0200" stop="20221113190000 +0200" channel="Al Nahar TV">
+    <title lang="ar">بيت الشدة</title>
+    <title lang="ar">مسلسل-عادي
+               (2022)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113190000 +0200" stop="20221113200000 +0200" channel="Al Nahar TV">
+    <title lang="ar">اسأل مع دعاء</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221113200000 +0200" stop="20221113210000 +0200" channel="Al Nahar TV">
+    <title lang="ar">برنامج</title>
+    <title lang="ar">08:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20221113210000 +0200" stop="20221113213000 +0200" channel="Al Nahar TV">
+    <title lang="ar">برنامج</title>
+    <title lang="ar">09:00  مساءً
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20221114000000 +0200" stop="20221114010000 +0200" channel="Al Nahar TV">
+    <title lang="ar">الطاووس</title>
+    <title lang="ar">مسلسل-عادي
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114070000 +0200" stop="20221114080000 +0200" channel="Al Nahar TV">
+    <title lang="ar">اسأل مع دعاء</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ-عادي
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20221114110000 +0200" stop="20221114120000 +0200" channel="Al Nahar TV">
+    <title lang="ar">ضمير أبلة حكمت</title>
+    <title lang="ar">مسلسل-عادي
+               (1991)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+</tv>
